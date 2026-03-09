@@ -37,11 +37,14 @@
                         - Stats of team A will be a weighted average of Team A's stats and Team B's opponent stats. Weights can be determined based on offensive and defensive ratings.
                 - Necessary realized stats:
                     - Time of possession
-                    - Shot type percentages (2pts, 3pts, ft)
+                    - Shot type usage, percentages (2pts, 3pts, ft)
                     - Rebound percentages (offensive, defensive)
                     - Turnover percentage
                 - Potential adjustments:
                     - Home/Away: Adjust the probabilities based on whether the team is playing at home or away, as teams often perform better at home. (Maybe apply a fixed constant of boost)
                     - Injuries/substitutions: Use player dependent model instead.
+        - Iterations:
+            - Just simulate the game based on shot distribution and percentage, possession time, and turnover rate. Not accounted for different types of possessions (after offensive rebounds, fast breaks, etc.)
+            - Also not account for time running out (end of each quarter)
     - Player dependent:
         To be continued...
