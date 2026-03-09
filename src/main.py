@@ -2,7 +2,7 @@ from utils import get_team_ratings, win_probability, simulate_game
 from classes import Team, Player, Game
 
 def main():
-    t1 = Team("Georgia Tech", "ACC", 2026)
+    t1 = Team("Duke", "ACC", 2026)
     t2 = Team("Georgia", "SEC", 2026)
 
     team1_ratings = get_team_ratings(team_name=t1.name, season=t1.season)

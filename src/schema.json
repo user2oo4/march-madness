@@ -1,0 +1,180 @@
+{
+"stats_team_season": [
+{
+    "season": 0,
+    "seasonLabel": "string",
+    "teamId": 0,
+    "team": "string",
+    "conference": "string",
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "totalMinutes": 0,
+    "pace": 0,
+    "teamStats": {
+    "fieldGoals": {
+        "pct": 0,
+        "attempted": 0,
+        "made": 0
+    },
+    "twoPointFieldGoals": {
+        "pct": 0,
+        "attempted": 0,
+        "made": 0
+    },
+    "threePointFieldGoals": {
+        "pct": 0,
+        "attempted": 0,
+        "made": 0
+    },
+    "freeThrows": {
+        "pct": 0,
+        "attempted": 0,
+        "made": 0
+    },
+    "rebounds": {
+        "total": 0,
+        "defensive": 0,
+        "offensive": 0
+    },
+    "turnovers": {
+        "teamTotal": 0,
+        "total": 0
+    },
+    "fouls": {
+        "flagrant": 0,
+        "technical": 0,
+        "total": 0
+    },
+    "points": {
+        "fastBreak": 0,
+        "offTurnovers": 0,
+        "inPaint": 0,
+        "total": 0
+    },
+    "fourFactors": {
+        "freeThrowRate": 0,
+        "offensiveReboundPct": 0,
+        "turnoverRatio": 0,
+        "effectiveFieldGoalPct": 0
+    },
+    "assists": 0,
+    "blocks": 0,
+    "steals": 0,
+    "possessions": 0,
+    "rating": 0,
+    "trueShooting": 0
+    },
+    "opponentStats": {
+    "fieldGoals": {
+        "pct": 0,
+        "attempted": 0,
+        "made": 0
+    },
+    "twoPointFieldGoals": {
+        "pct": 0,
+        "attempted": 0,
+        "made": 0
+    },
+    "threePointFieldGoals": {
+        "pct": 0,
+        "attempted": 0,
+        "made": 0
+    },
+    "freeThrows": {
+        "pct": 0,
+        "attempted": 0,
+        "made": 0
+    },
+    "rebounds": {
+        "total": 0,
+        "defensive": 0,
+        "offensive": 0
+    },
+    "turnovers": {
+        "teamTotal": 0,
+        "total": 0
+    },
+    "fouls": {
+        "flagrant": 0,
+        "technical": 0,
+        "total": 0
+    },
+    "points": {
+        "fastBreak": 0,
+        "offTurnovers": 0,
+        "inPaint": 0,
+        "total": 0
+    },
+    "fourFactors": {
+        "freeThrowRate": 0,
+        "offensiveReboundPct": 0,
+        "turnoverRatio": 0,
+        "effectiveFieldGoalPct": 0
+    },
+    "assists": 0,
+    "blocks": 0,
+    "steals": 0,
+    "possessions": 0,
+    "rating": 0,
+    "trueShooting": 0
+    }
+}
+],
+"stats_team_shooting_season": [
+  {
+    "season": 0,
+    "teamId": 0,
+    "team": "string",
+    "conference": "string",
+    "trackedShots": 0,
+    "assistedPct": 0,
+    "freeThrowRate": 0,
+    "dunks": {
+      "made": 0,
+      "attempted": 0,
+      "pct": 0,
+      "assistedPct": 0,
+      "assisted": 0
+    },
+    "layups": {
+      "made": 0,
+      "attempted": 0,
+      "pct": 0,
+      "assistedPct": 0,
+      "assisted": 0
+    },
+    "tipIns": {
+      "made": 0,
+      "attempted": 0,
+      "pct": 0
+    },
+    "twoPointJumpers": {
+      "made": 0,
+      "attempted": 0,
+      "pct": 0,
+      "assistedPct": 0,
+      "assisted": 0
+    },
+    "threePointJumpers": {
+      "made": 0,
+      "attempted": 0,
+      "pct": 0,
+      "assistedPct": 0,
+      "assisted": 0
+    },
+    "freeThrows": {
+      "made": 0,
+      "attempted": 0,
+      "pct": 0
+    },
+    "attemptsBreakdown": {
+      "threePointJumpers": 0,
+      "twoPointJumpers": 0,
+      "tipIns": 0,
+      "layups": 0,
+      "dunks": 0
+    }
+  }
+]
+}
