@@ -1,0 +1,120 @@
+{
+    "season": 2026,
+    "seasonLabel": "20252026",
+    "teamId": 72,
+    "team": "Duke",
+    "conference": "ACC",
+    "games": 31,
+    "wins": 29,
+    "losses": 2,
+    "totalMinutes": 1240,
+    "pace": 67,
+    "teamStats": {
+        "assists": 526,
+        "blocks": 105,
+        "steals": 244,
+        "possessions": 2076,
+        "trueShooting": 61,
+        "rating": 123.8,
+        "fieldGoals": {
+            "made": 897,
+            "attempted": 1806,
+            "pct": 49.7
+        },
+        "twoPointFieldGoals": {
+            "made": 615,
+            "attempted": 1008,
+            "pct": 61
+        },
+        "threePointFieldGoals": {
+            "made": 282,
+            "attempted": 798,
+            "pct": 35.3
+        },
+        "freeThrows": {
+            "made": 495,
+            "attempted": 685,
+            "pct": 72.3
+        },
+        "rebounds": {
+            "offensive": 372,
+            "defensive": 869,
+            "total": 1241
+        },
+        "turnovers": {
+            "total": 323,
+            "teamTotal": 12
+        },
+        "fouls": {
+            "total": 484,
+            "technical": 2,
+            "flagrant": 2
+        },
+        "points": {
+            "total": 2571,
+            "inPaint": 1172,
+            "offTurnovers": 451,
+            "fastBreak": 317
+        },
+        "fourFactors": {
+            "effectiveFieldGoalPct": 57.5,
+            "turnoverRatio": 0.16,
+            "offensiveReboundPct": 30,
+            "freeThrowRate": 37.9
+        }
+    },
+    "opponentStats": {
+        "assists": 367,
+        "blocks": 82,
+        "steals": 194,
+        "possessions": 2079,
+        "trueShooting": 48.9,
+        "rating": 93.2,
+        "fieldGoals": {
+            "made": 700,
+            "attempted": 1800,
+            "pct": 38.9
+        },
+        "twoPointFieldGoals": {
+            "made": 453,
+            "attempted": 980,
+            "pct": 46.2
+        },
+        "threePointFieldGoals": {
+            "made": 247,
+            "attempted": 820,
+            "pct": 30.1
+        },
+        "freeThrows": {
+            "made": 290,
+            "attempted": 409,
+            "pct": 70.9
+        },
+        "rebounds": {
+            "offensive": 288,
+            "defensive": 630,
+            "total": 918
+        },
+        "turnovers": {
+            "total": 386,
+            "teamTotal": 22
+        },
+        "fouls": {
+            "total": 564,
+            "technical": 3,
+            "flagrant": 2
+        },
+        "points": {
+            "total": 1937,
+            "inPaint": 746,
+            "offTurnovers": 317,
+            "fastBreak": 236
+        },
+        "fourFactors": {
+            "effectiveFieldGoalPct": 45.8,
+            "turnoverRatio": 0.19,
+            "offensiveReboundPct": 31.4,
+            "freeThrowRate": 22.7
+        }
+    }
+}

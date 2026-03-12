@@ -76311,14 +76311,14 @@
         "teamId": 125,
         "team": "Iowa State",
         "conference": "Big 12 Conference",
-        "elo": 1846
+        "elo": 1856
     },
     {
         "season": 2003,
         "teamId": 125,
         "team": "Iowa State",
         "conference": "Big 12 Conference",
-        "elo": 1856
+        "elo": 1846
     },
     {
         "season": 2003,
@@ -77725,14 +77725,14 @@
         "teamId": 351,
         "team": "Western Michigan",
         "conference": "Mid-American Conference",
-        "elo": 1694
+        "elo": 1696
     },
     {
         "season": 2003,
         "teamId": 351,
         "team": "Western Michigan",
         "conference": "Mid-American Conference",
-        "elo": 1696
+        "elo": 1694
     },
     {
         "season": 2003,
@@ -97318,14 +97318,14 @@
         "teamId": 149,
         "team": "Louisiana Tech",
         "conference": "Western Athletic Conference",
-        "elo": 1614
+        "elo": 1654
     },
     {
         "season": 2012,
         "teamId": 149,
         "team": "Louisiana Tech",
         "conference": "Western Athletic Conference",
-        "elo": 1654
+        "elo": 1614
     },
     {
         "season": 2012,
@@ -97969,14 +97969,14 @@
         "teamId": 244,
         "team": "Robert Morris",
         "conference": "Northeast Conference",
-        "elo": 1621
+        "elo": 1584
     },
     {
         "season": 2012,
         "teamId": 244,
         "team": "Robert Morris",
         "conference": "Northeast Conference",
-        "elo": 1584
+        "elo": 1621
     },
     {
         "season": 2012,
@@ -99992,14 +99992,14 @@
         "teamId": 183,
         "team": "Mount St. Mary's",
         "conference": "Northeast Conference",
-        "elo": 1514
+        "elo": 1555
     },
     {
         "season": 2013,
         "teamId": 183,
         "team": "Mount St. Mary's",
         "conference": "Northeast Conference",
-        "elo": 1555
+        "elo": 1514
     },
     {
         "season": 2013,

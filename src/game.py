@@ -32,7 +32,7 @@ class Game:
             t, o = team.name, opp.name
             stats = self.stats[t]['teamStats']
             realized = self.realized_stats[t]
-            realized['possession'] = stats['possessions'] / stats['games']
+            realized['possession'] = stats['possessions'] / self.stats[t]['games']
             realized['possession_time'] = 20 * 60 / realized['possession']
             realized['tov_rate'] = stats['fourFactors']['turnoverRatio']
             realized['offensive_rebound_rate'] = stats['fourFactors']['offensiveReboundPct']
@@ -69,7 +69,12 @@ class Game:
             if result == 'turnover':
                 attack_team = self.teams[1] if attack_team == self.teams[0] else self.teams[0]
             elif result in ['2pt_made', '3pt_made', 'ft_made']:
-                self.score[attack_team.name] += int(result[0])
+                if result == '2pt_made':
+                    self.score[attack_team.name] += 2
+                elif result == '3pt_made':
+                    self.score[attack_team.name] += 3
+                elif result == 'ft_made':
+                    self.score[attack_team.name] += 1
                 attack_team = self.teams[1] if attack_team == self.teams[0] else self.teams[0]
             elif result == 'offensive_rebound':
                 continue
@@ -87,7 +92,7 @@ class Game:
             tov_rate *= success_rate_mul
             possession_time = time_left
         if random.random() < tov_rate:
-            return 'turnover'
+            return 'turnover', possession_time
         shot_type = random.choices(['2pt', '3pt', 'ft'], weights=[self.realized_stats[attack_team.name]['2pt_distribution'], self.realized_stats[attack_team.name]['3pt_distribution'], self.realized_stats[attack_team.name]['ft_distribution']])[0]
         success_rate = self.realized_stats[attack_team.name][f'{shot_type}_percentage'] * success_rate_mul
         if random.random() < success_rate:
