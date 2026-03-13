@@ -1,563 +1,575 @@
-Final Score: Duke 73 - Georgia 56
+Final Score: Ole Miss 73 - Georgia 85
 
 Play by Play Log:
-Start of game: Duke vs Georgia
+Start of game: Ole Miss vs Georgia
 Start of period 1
 
-Current attacking team: Georgia, time left in period: 1200.00 seconds
-Georgia missed with 1185.38 seconds left in period
-Current score: Duke 0 - Georgia 0
-
-Current attacking team: Duke, time left in period: 1185.38 seconds
-Duke turnover with 1167.17 seconds left in period
-Current score: Duke 0 - Georgia 0
-
-Current attacking team: Georgia, time left in period: 1167.17 seconds
-Georgia 3 ft_made with 1152.47 seconds left in period
-Current score: Duke 0 - Georgia 3
-
-Current attacking team: Duke, time left in period: 1152.47 seconds
-Duke missed with 1132.49 seconds left in period
-Current score: Duke 0 - Georgia 3
-
-Current attacking team: Georgia, time left in period: 1132.49 seconds
-Georgia 2pt_made with 1117.66 seconds left in period
-Current score: Duke 0 - Georgia 5
-
-Current attacking team: Duke, time left in period: 1117.66 seconds
-Duke offensive_rebound with 1099.46 seconds left in period
-Current score: Duke 0 - Georgia 5
-
-Current attacking team: Duke, time left in period: 1099.46 seconds
-Duke 2pt_made with 1084.37 seconds left in period
-Current score: Duke 2 - Georgia 5
-
-Current attacking team: Georgia, time left in period: 1084.37 seconds
-Georgia missed with 1065.27 seconds left in period
-Current score: Duke 2 - Georgia 5
-
-Current attacking team: Duke, time left in period: 1065.27 seconds
-Duke 1 ft_made with 1045.55 seconds left in period
-Current score: Duke 3 - Georgia 5
-
-Current attacking team: Georgia, time left in period: 1045.55 seconds
-Georgia turnover with 1026.73 seconds left in period
-Current score: Duke 3 - Georgia 5
-
-Current attacking team: Duke, time left in period: 1026.73 seconds
-Duke 3pt_made with 1006.11 seconds left in period
-Current score: Duke 6 - Georgia 5
-
-Current attacking team: Georgia, time left in period: 1006.11 seconds
-Georgia missed with 988.07 seconds left in period
-Current score: Duke 6 - Georgia 5
-
-Current attacking team: Duke, time left in period: 988.07 seconds
-Duke missed with 973.18 seconds left in period
-Current score: Duke 6 - Georgia 5
-
-Current attacking team: Georgia, time left in period: 973.18 seconds
-Georgia missed with 956.46 seconds left in period
-Current score: Duke 6 - Georgia 5
-
-Current attacking team: Duke, time left in period: 956.46 seconds
-Duke 1 ft_made with 935.23 seconds left in period
-Current score: Duke 7 - Georgia 5
-
-Current attacking team: Georgia, time left in period: 935.23 seconds
-Georgia 2 ft_made with 920.31 seconds left in period
-Current score: Duke 7 - Georgia 7
-
-Current attacking team: Duke, time left in period: 920.31 seconds
-Duke offensive_rebound with 899.20 seconds left in period
-Current score: Duke 7 - Georgia 7
-
-Current attacking team: Duke, time left in period: 899.20 seconds
-Duke missed with 878.81 seconds left in period
-Current score: Duke 7 - Georgia 7
-
-Current attacking team: Georgia, time left in period: 878.81 seconds
-Georgia offensive_rebound with 862.71 seconds left in period
-Current score: Duke 7 - Georgia 7
-
-Current attacking team: Georgia, time left in period: 862.71 seconds
-Georgia 3pt_made with 847.84 seconds left in period
-Current score: Duke 7 - Georgia 10
-
-Current attacking team: Duke, time left in period: 847.84 seconds
-Duke 2pt_made with 826.80 seconds left in period
-Current score: Duke 9 - Georgia 10
-
-Current attacking team: Georgia, time left in period: 826.80 seconds
-Georgia 2 ft_made with 810.40 seconds left in period
-Current score: Duke 9 - Georgia 12
-
-Current attacking team: Duke, time left in period: 810.40 seconds
-Duke 2pt_made with 789.03 seconds left in period
-Current score: Duke 11 - Georgia 12
-
-Current attacking team: Georgia, time left in period: 789.03 seconds
-Georgia 2pt_made with 771.60 seconds left in period
-Current score: Duke 11 - Georgia 14
-
-Current attacking team: Duke, time left in period: 771.60 seconds
-Duke turnover with 752.16 seconds left in period
-Current score: Duke 11 - Georgia 14
-
-Current attacking team: Georgia, time left in period: 752.16 seconds
-Georgia missed with 735.50 seconds left in period
-Current score: Duke 11 - Georgia 14
-
-Current attacking team: Duke, time left in period: 735.50 seconds
-Duke missed with 717.89 seconds left in period
-Current score: Duke 11 - Georgia 14
-
-Current attacking team: Georgia, time left in period: 717.89 seconds
-Georgia missed with 698.47 seconds left in period
-Current score: Duke 11 - Georgia 14
-
-Current attacking team: Duke, time left in period: 698.47 seconds
-Duke 3pt_made with 680.10 seconds left in period
-Current score: Duke 14 - Georgia 14
-
-Current attacking team: Georgia, time left in period: 680.10 seconds
-Georgia turnover with 666.50 seconds left in period
-Current score: Duke 14 - Georgia 14
-
-Current attacking team: Duke, time left in period: 666.50 seconds
-Duke offensive_rebound with 645.17 seconds left in period
-Current score: Duke 14 - Georgia 14
-
-Current attacking team: Duke, time left in period: 645.17 seconds
-Duke missed with 626.92 seconds left in period
-Current score: Duke 14 - Georgia 14
-
-Current attacking team: Georgia, time left in period: 626.92 seconds
-Georgia 1 ft_made with 611.87 seconds left in period
-Current score: Duke 14 - Georgia 15
-
-Current attacking team: Duke, time left in period: 611.87 seconds
-Duke 2pt_made with 590.99 seconds left in period
-Current score: Duke 16 - Georgia 15
-
-Current attacking team: Georgia, time left in period: 590.99 seconds
-Georgia missed with 575.68 seconds left in period
-Current score: Duke 16 - Georgia 15
-
-Current attacking team: Duke, time left in period: 575.68 seconds
-Duke missed with 557.14 seconds left in period
-Current score: Duke 16 - Georgia 15
-
-Current attacking team: Georgia, time left in period: 557.14 seconds
-Georgia 2 ft_made with 543.76 seconds left in period
-Current score: Duke 16 - Georgia 17
-
-Current attacking team: Duke, time left in period: 543.76 seconds
-Duke 2pt_made with 524.51 seconds left in period
-Current score: Duke 18 - Georgia 17
-
-Current attacking team: Georgia, time left in period: 524.51 seconds
-Georgia missed with 510.69 seconds left in period
-Current score: Duke 18 - Georgia 17
-
-Current attacking team: Duke, time left in period: 510.69 seconds
-Duke 3pt_made with 489.24 seconds left in period
-Current score: Duke 21 - Georgia 17
-
-Current attacking team: Georgia, time left in period: 489.24 seconds
-Georgia missed with 472.95 seconds left in period
-Current score: Duke 21 - Georgia 17
-
-Current attacking team: Duke, time left in period: 472.95 seconds
-Duke turnover with 453.61 seconds left in period
-Current score: Duke 21 - Georgia 17
-
-Current attacking team: Georgia, time left in period: 453.61 seconds
-Georgia missed with 437.92 seconds left in period
-Current score: Duke 21 - Georgia 17
-
-Current attacking team: Duke, time left in period: 437.92 seconds
-Duke 2pt_made with 422.23 seconds left in period
-Current score: Duke 23 - Georgia 17
-
-Current attacking team: Georgia, time left in period: 422.23 seconds
-Georgia 2pt_made with 404.95 seconds left in period
-Current score: Duke 23 - Georgia 19
-
-Current attacking team: Duke, time left in period: 404.95 seconds
-Duke offensive_rebound with 389.59 seconds left in period
-Current score: Duke 23 - Georgia 19
-
-Current attacking team: Duke, time left in period: 389.59 seconds
-Duke 2 ft_made with 370.60 seconds left in period
-Current score: Duke 25 - Georgia 19
-
-Current attacking team: Georgia, time left in period: 370.60 seconds
-Georgia 2pt_made with 357.10 seconds left in period
-Current score: Duke 25 - Georgia 21
-
-Current attacking team: Duke, time left in period: 357.10 seconds
-Duke missed with 338.82 seconds left in period
-Current score: Duke 25 - Georgia 21
-
-Current attacking team: Georgia, time left in period: 338.82 seconds
-Georgia 2 ft_made with 320.08 seconds left in period
-Current score: Duke 25 - Georgia 23
-
-Current attacking team: Duke, time left in period: 320.08 seconds
-Duke offensive_rebound with 300.85 seconds left in period
-Current score: Duke 25 - Georgia 23
-
-Current attacking team: Duke, time left in period: 300.85 seconds
-Duke turnover with 281.13 seconds left in period
-Current score: Duke 25 - Georgia 23
-
-Current attacking team: Georgia, time left in period: 281.13 seconds
-Georgia 2pt_made with 265.10 seconds left in period
-Current score: Duke 25 - Georgia 25
-
-Current attacking team: Duke, time left in period: 265.10 seconds
-Duke offensive_rebound with 245.69 seconds left in period
-Current score: Duke 25 - Georgia 25
-
-Current attacking team: Duke, time left in period: 245.69 seconds
-Duke missed with 229.63 seconds left in period
-Current score: Duke 25 - Georgia 25
-
-Current attacking team: Georgia, time left in period: 229.63 seconds
-Georgia 3pt_made with 216.21 seconds left in period
-Current score: Duke 25 - Georgia 28
-
-Current attacking team: Duke, time left in period: 216.21 seconds
-Duke turnover with 195.14 seconds left in period
-Current score: Duke 25 - Georgia 28
-
-Current attacking team: Georgia, time left in period: 195.14 seconds
-Georgia missed with 175.77 seconds left in period
-Current score: Duke 25 - Georgia 28
-
-Current attacking team: Duke, time left in period: 175.77 seconds
-Duke 2pt_made with 154.89 seconds left in period
-Current score: Duke 27 - Georgia 28
-
-Current attacking team: Georgia, time left in period: 154.89 seconds
-Georgia 2pt_made with 140.94 seconds left in period
-Current score: Duke 27 - Georgia 30
-
-Current attacking team: Duke, time left in period: 140.94 seconds
-Duke 2 ft_made with 126.47 seconds left in period
-Current score: Duke 29 - Georgia 30
-
-Current attacking team: Georgia, time left in period: 126.47 seconds
-Georgia offensive_rebound with 112.75 seconds left in period
-Current score: Duke 29 - Georgia 30
-
-Current attacking team: Georgia, time left in period: 112.75 seconds
-Georgia 2 ft_made with 99.02 seconds left in period
-Current score: Duke 29 - Georgia 32
-
-Current attacking team: Duke, time left in period: 99.02 seconds
-Duke 3pt_made with 83.54 seconds left in period
-Current score: Duke 32 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 83.54 seconds
-Georgia missed with 69.04 seconds left in period
-Current score: Duke 32 - Georgia 32
-
-Current attacking team: Duke, time left in period: 69.04 seconds
-Duke 2pt_made with 52.55 seconds left in period
-Current score: Duke 34 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 52.55 seconds
-Georgia turnover with 33.11 seconds left in period
-Current score: Duke 34 - Georgia 32
-
-Current attacking team: Duke, time left in period: 33.11 seconds
-Duke 3pt_made with 16.58 seconds left in period
-Current score: Duke 37 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 16.58 seconds
-Georgia missed with 2.51 seconds left in period
-Current score: Duke 37 - Georgia 32
-
-Current attacking team: Duke, time left in period: 2.51 seconds
-Duke missed with 0.00 seconds left in period
-Current score: Duke 37 - Georgia 32
+Current attacking team: Ole Miss, time left in period: 1200.00 seconds
+Ole Miss 3pt_made with 1183.59 seconds left in period
+Current score: Ole Miss 3 - Georgia 0
+
+Current attacking team: Georgia, time left in period: 1183.59 seconds
+Georgia 0 ft_made with 1169.59 seconds left in period
+Current score: Ole Miss 3 - Georgia 0
+
+Current attacking team: Ole Miss, time left in period: 1169.59 seconds
+Ole Miss turnover with 1153.20 seconds left in period
+Current score: Ole Miss 3 - Georgia 0
+
+Current attacking team: Georgia, time left in period: 1153.20 seconds
+Georgia turnover with 1133.67 seconds left in period
+Current score: Ole Miss 3 - Georgia 0
+
+Current attacking team: Ole Miss, time left in period: 1133.67 seconds
+Ole Miss missed with 1119.30 seconds left in period
+Current score: Ole Miss 3 - Georgia 0
+
+Current attacking team: Georgia, time left in period: 1119.30 seconds
+Georgia 2pt_made with 1101.32 seconds left in period
+Current score: Ole Miss 3 - Georgia 2
+
+Current attacking team: Ole Miss, time left in period: 1101.32 seconds
+Ole Miss 1 ft_made with 1081.33 seconds left in period
+Current score: Ole Miss 4 - Georgia 2
+
+Current attacking team: Georgia, time left in period: 1081.33 seconds
+Georgia 2pt_made with 1065.66 seconds left in period
+Current score: Ole Miss 4 - Georgia 4
+
+Current attacking team: Ole Miss, time left in period: 1065.66 seconds
+Ole Miss missed with 1044.91 seconds left in period
+Current score: Ole Miss 4 - Georgia 4
+
+Current attacking team: Georgia, time left in period: 1044.91 seconds
+Georgia turnover with 1026.96 seconds left in period
+Current score: Ole Miss 4 - Georgia 4
+
+Current attacking team: Ole Miss, time left in period: 1026.96 seconds
+Ole Miss 2 ft_made with 1008.86 seconds left in period
+Current score: Ole Miss 6 - Georgia 4
+
+Current attacking team: Georgia, time left in period: 1008.86 seconds
+Georgia 3 ft_made with 992.41 seconds left in period
+Current score: Ole Miss 6 - Georgia 7
+
+Current attacking team: Ole Miss, time left in period: 992.41 seconds
+Ole Miss missed with 971.69 seconds left in period
+Current score: Ole Miss 6 - Georgia 7
+
+Current attacking team: Georgia, time left in period: 971.69 seconds
+Georgia turnover with 953.42 seconds left in period
+Current score: Ole Miss 6 - Georgia 7
+
+Current attacking team: Ole Miss, time left in period: 953.42 seconds
+Ole Miss missed with 937.69 seconds left in period
+Current score: Ole Miss 6 - Georgia 7
+
+Current attacking team: Georgia, time left in period: 937.69 seconds
+Georgia 1 ft_made with 922.51 seconds left in period
+Current score: Ole Miss 6 - Georgia 8
+
+Current attacking team: Ole Miss, time left in period: 922.51 seconds
+Ole Miss 2 ft_made with 906.84 seconds left in period
+Current score: Ole Miss 8 - Georgia 8
+
+Current attacking team: Georgia, time left in period: 906.84 seconds
+Georgia 3pt_made with 893.14 seconds left in period
+Current score: Ole Miss 8 - Georgia 11
+
+Current attacking team: Ole Miss, time left in period: 893.14 seconds
+Ole Miss 2pt_made with 874.21 seconds left in period
+Current score: Ole Miss 10 - Georgia 11
+
+Current attacking team: Georgia, time left in period: 874.21 seconds
+Georgia 3pt_made with 858.94 seconds left in period
+Current score: Ole Miss 10 - Georgia 14
+
+Current attacking team: Ole Miss, time left in period: 858.94 seconds
+Ole Miss missed with 839.47 seconds left in period
+Current score: Ole Miss 10 - Georgia 14
+
+Current attacking team: Georgia, time left in period: 839.47 seconds
+Georgia turnover with 825.55 seconds left in period
+Current score: Ole Miss 10 - Georgia 14
+
+Current attacking team: Ole Miss, time left in period: 825.55 seconds
+Ole Miss missed with 805.80 seconds left in period
+Current score: Ole Miss 10 - Georgia 14
+
+Current attacking team: Georgia, time left in period: 805.80 seconds
+Georgia 3pt_made with 792.17 seconds left in period
+Current score: Ole Miss 10 - Georgia 17
+
+Current attacking team: Ole Miss, time left in period: 792.17 seconds
+Ole Miss turnover with 776.57 seconds left in period
+Current score: Ole Miss 10 - Georgia 17
+
+Current attacking team: Georgia, time left in period: 776.57 seconds
+Georgia offensive_rebound with 759.84 seconds left in period
+Current score: Ole Miss 10 - Georgia 17
+
+Current attacking team: Georgia, time left in period: 759.84 seconds
+Georgia 3 ft_made with 744.70 seconds left in period
+Current score: Ole Miss 10 - Georgia 20
+
+Current attacking team: Ole Miss, time left in period: 744.70 seconds
+Ole Miss 2pt_made with 729.88 seconds left in period
+Current score: Ole Miss 12 - Georgia 20
+
+Current attacking team: Georgia, time left in period: 729.88 seconds
+Georgia 2pt_made with 710.37 seconds left in period
+Current score: Ole Miss 12 - Georgia 22
+
+Current attacking team: Ole Miss, time left in period: 710.37 seconds
+Ole Miss 2pt_made with 692.90 seconds left in period
+Current score: Ole Miss 14 - Georgia 22
+
+Current attacking team: Georgia, time left in period: 692.90 seconds
+Georgia turnover with 673.49 seconds left in period
+Current score: Ole Miss 14 - Georgia 22
+
+Current attacking team: Ole Miss, time left in period: 673.49 seconds
+Ole Miss 2pt_made with 657.61 seconds left in period
+Current score: Ole Miss 16 - Georgia 22
+
+Current attacking team: Georgia, time left in period: 657.61 seconds
+Georgia offensive_rebound with 643.78 seconds left in period
+Current score: Ole Miss 16 - Georgia 22
+
+Current attacking team: Georgia, time left in period: 643.78 seconds
+Georgia 1 ft_made with 628.42 seconds left in period
+Current score: Ole Miss 16 - Georgia 23
+
+Current attacking team: Ole Miss, time left in period: 628.42 seconds
+Ole Miss turnover with 607.98 seconds left in period
+Current score: Ole Miss 16 - Georgia 23
+
+Current attacking team: Georgia, time left in period: 607.98 seconds
+Georgia turnover with 589.85 seconds left in period
+Current score: Ole Miss 16 - Georgia 23
+
+Current attacking team: Ole Miss, time left in period: 589.85 seconds
+Ole Miss turnover with 571.31 seconds left in period
+Current score: Ole Miss 16 - Georgia 23
+
+Current attacking team: Georgia, time left in period: 571.31 seconds
+Georgia turnover with 553.64 seconds left in period
+Current score: Ole Miss 16 - Georgia 23
+
+Current attacking team: Ole Miss, time left in period: 553.64 seconds
+Ole Miss 2 ft_made with 533.55 seconds left in period
+Current score: Ole Miss 18 - Georgia 23
+
+Current attacking team: Georgia, time left in period: 533.55 seconds
+Georgia offensive_rebound with 517.47 seconds left in period
+Current score: Ole Miss 18 - Georgia 23
+
+Current attacking team: Georgia, time left in period: 517.47 seconds
+Georgia 2pt_made with 502.23 seconds left in period
+Current score: Ole Miss 18 - Georgia 25
+
+Current attacking team: Ole Miss, time left in period: 502.23 seconds
+Ole Miss 2pt_made with 485.14 seconds left in period
+Current score: Ole Miss 20 - Georgia 25
+
+Current attacking team: Georgia, time left in period: 485.14 seconds
+Georgia turnover with 467.20 seconds left in period
+Current score: Ole Miss 20 - Georgia 25
+
+Current attacking team: Ole Miss, time left in period: 467.20 seconds
+Ole Miss 2pt_made with 451.18 seconds left in period
+Current score: Ole Miss 22 - Georgia 25
+
+Current attacking team: Georgia, time left in period: 451.18 seconds
+Georgia missed with 434.59 seconds left in period
+Current score: Ole Miss 22 - Georgia 25
+
+Current attacking team: Ole Miss, time left in period: 434.59 seconds
+Ole Miss 2 ft_made with 416.45 seconds left in period
+Current score: Ole Miss 24 - Georgia 25
+
+Current attacking team: Georgia, time left in period: 416.45 seconds
+Georgia missed with 400.92 seconds left in period
+Current score: Ole Miss 24 - Georgia 25
+
+Current attacking team: Ole Miss, time left in period: 400.92 seconds
+Ole Miss turnover with 381.51 seconds left in period
+Current score: Ole Miss 24 - Georgia 25
+
+Current attacking team: Georgia, time left in period: 381.51 seconds
+Georgia missed with 363.90 seconds left in period
+Current score: Ole Miss 24 - Georgia 25
+
+Current attacking team: Ole Miss, time left in period: 363.90 seconds
+Ole Miss missed with 343.30 seconds left in period
+Current score: Ole Miss 24 - Georgia 25
+
+Current attacking team: Georgia, time left in period: 343.30 seconds
+Georgia 2pt_made with 328.21 seconds left in period
+Current score: Ole Miss 24 - Georgia 27
+
+Current attacking team: Ole Miss, time left in period: 328.21 seconds
+Ole Miss turnover with 313.99 seconds left in period
+Current score: Ole Miss 24 - Georgia 27
+
+Current attacking team: Georgia, time left in period: 313.99 seconds
+Georgia missed with 298.41 seconds left in period
+Current score: Ole Miss 24 - Georgia 27
+
+Current attacking team: Ole Miss, time left in period: 298.41 seconds
+Ole Miss offensive_rebound with 280.55 seconds left in period
+Current score: Ole Miss 24 - Georgia 27
+
+Current attacking team: Ole Miss, time left in period: 280.55 seconds
+Ole Miss 2pt_made with 261.11 seconds left in period
+Current score: Ole Miss 26 - Georgia 27
+
+Current attacking team: Georgia, time left in period: 261.11 seconds
+Georgia 2pt_made with 246.06 seconds left in period
+Current score: Ole Miss 26 - Georgia 29
+
+Current attacking team: Ole Miss, time left in period: 246.06 seconds
+Ole Miss turnover with 227.72 seconds left in period
+Current score: Ole Miss 26 - Georgia 29
+
+Current attacking team: Georgia, time left in period: 227.72 seconds
+Georgia missed with 212.44 seconds left in period
+Current score: Ole Miss 26 - Georgia 29
+
+Current attacking team: Ole Miss, time left in period: 212.44 seconds
+Ole Miss 3pt_made with 192.82 seconds left in period
+Current score: Ole Miss 29 - Georgia 29
+
+Current attacking team: Georgia, time left in period: 192.82 seconds
+Georgia 3pt_made with 177.43 seconds left in period
+Current score: Ole Miss 29 - Georgia 32
+
+Current attacking team: Ole Miss, time left in period: 177.43 seconds
+Ole Miss turnover with 157.17 seconds left in period
+Current score: Ole Miss 29 - Georgia 32
+
+Current attacking team: Georgia, time left in period: 157.17 seconds
+Georgia turnover with 142.21 seconds left in period
+Current score: Ole Miss 29 - Georgia 32
+
+Current attacking team: Ole Miss, time left in period: 142.21 seconds
+Ole Miss 1 ft_made with 125.73 seconds left in period
+Current score: Ole Miss 30 - Georgia 32
+
+Current attacking team: Georgia, time left in period: 125.73 seconds
+Georgia offensive_rebound with 106.25 seconds left in period
+Current score: Ole Miss 30 - Georgia 32
+
+Current attacking team: Georgia, time left in period: 106.25 seconds
+Georgia offensive_rebound with 88.22 seconds left in period
+Current score: Ole Miss 30 - Georgia 32
+
+Current attacking team: Georgia, time left in period: 88.22 seconds
+Georgia missed with 73.69 seconds left in period
+Current score: Ole Miss 30 - Georgia 32
+
+Current attacking team: Ole Miss, time left in period: 73.69 seconds
+Ole Miss 2pt_made with 53.62 seconds left in period
+Current score: Ole Miss 32 - Georgia 32
+
+Current attacking team: Georgia, time left in period: 53.62 seconds
+Georgia 3pt_made with 36.78 seconds left in period
+Current score: Ole Miss 32 - Georgia 35
+
+Current attacking team: Ole Miss, time left in period: 36.78 seconds
+Ole Miss 2pt_made with 18.59 seconds left in period
+Current score: Ole Miss 34 - Georgia 35
+
+Current attacking team: Georgia, time left in period: 18.59 seconds
+Georgia 2pt_made with 1.18 seconds left in period
+Current score: Ole Miss 34 - Georgia 37
+
+Current attacking team: Ole Miss, time left in period: 1.18 seconds
+Ole Miss missed with 0.00 seconds left in period
+Current score: Ole Miss 34 - Georgia 37
 Start of period 2
 
-Current attacking team: Duke, time left in period: 1200.00 seconds
-Duke missed with 1183.14 seconds left in period
-Current score: Duke 37 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 1183.14 seconds
-Georgia 2pt_made with 1165.87 seconds left in period
-Current score: Duke 37 - Georgia 34
-
-Current attacking team: Duke, time left in period: 1165.87 seconds
-Duke 2 ft_made with 1149.71 seconds left in period
-Current score: Duke 39 - Georgia 34
-
-Current attacking team: Georgia, time left in period: 1149.71 seconds
-Georgia missed with 1133.49 seconds left in period
-Current score: Duke 39 - Georgia 34
-
-Current attacking team: Duke, time left in period: 1133.49 seconds
-Duke 2pt_made with 1114.60 seconds left in period
-Current score: Duke 41 - Georgia 34
-
-Current attacking team: Georgia, time left in period: 1114.60 seconds
-Georgia missed with 1095.97 seconds left in period
-Current score: Duke 41 - Georgia 34
-
-Current attacking team: Duke, time left in period: 1095.97 seconds
-Duke turnover with 1076.07 seconds left in period
-Current score: Duke 41 - Georgia 34
-
-Current attacking team: Georgia, time left in period: 1076.07 seconds
-Georgia offensive_rebound with 1057.83 seconds left in period
-Current score: Duke 41 - Georgia 34
-
-Current attacking team: Georgia, time left in period: 1057.83 seconds
-Georgia missed with 1038.48 seconds left in period
-Current score: Duke 41 - Georgia 34
-
-Current attacking team: Duke, time left in period: 1038.48 seconds
-Duke offensive_rebound with 1017.81 seconds left in period
-Current score: Duke 41 - Georgia 34
-
-Current attacking team: Duke, time left in period: 1017.81 seconds
-Duke offensive_rebound with 998.81 seconds left in period
-Current score: Duke 41 - Georgia 34
-
-Current attacking team: Duke, time left in period: 998.81 seconds
-Duke offensive_rebound with 978.01 seconds left in period
-Current score: Duke 41 - Georgia 34
-
-Current attacking team: Duke, time left in period: 978.01 seconds
-Duke 2pt_made with 956.67 seconds left in period
-Current score: Duke 43 - Georgia 34
-
-Current attacking team: Georgia, time left in period: 956.67 seconds
-Georgia offensive_rebound with 938.28 seconds left in period
-Current score: Duke 43 - Georgia 34
-
-Current attacking team: Georgia, time left in period: 938.28 seconds
-Georgia offensive_rebound with 919.16 seconds left in period
-Current score: Duke 43 - Georgia 34
-
-Current attacking team: Georgia, time left in period: 919.16 seconds
-Georgia 1 ft_made with 903.97 seconds left in period
-Current score: Duke 43 - Georgia 35
-
-Current attacking team: Duke, time left in period: 903.97 seconds
-Duke 3pt_made with 889.53 seconds left in period
-Current score: Duke 46 - Georgia 35
-
-Current attacking team: Georgia, time left in period: 889.53 seconds
-Georgia missed with 870.72 seconds left in period
-Current score: Duke 46 - Georgia 35
-
-Current attacking team: Duke, time left in period: 870.72 seconds
-Duke 2pt_made with 851.52 seconds left in period
-Current score: Duke 48 - Georgia 35
-
-Current attacking team: Georgia, time left in period: 851.52 seconds
-Georgia 3pt_made with 834.83 seconds left in period
-Current score: Duke 48 - Georgia 38
-
-Current attacking team: Duke, time left in period: 834.83 seconds
-Duke 2pt_made with 819.05 seconds left in period
-Current score: Duke 50 - Georgia 38
-
-Current attacking team: Georgia, time left in period: 819.05 seconds
-Georgia offensive_rebound with 801.73 seconds left in period
-Current score: Duke 50 - Georgia 38
-
-Current attacking team: Georgia, time left in period: 801.73 seconds
-Georgia missed with 783.32 seconds left in period
-Current score: Duke 50 - Georgia 38
-
-Current attacking team: Duke, time left in period: 783.32 seconds
-Duke 3pt_made with 767.30 seconds left in period
-Current score: Duke 53 - Georgia 38
-
-Current attacking team: Georgia, time left in period: 767.30 seconds
-Georgia missed with 747.99 seconds left in period
-Current score: Duke 53 - Georgia 38
-
-Current attacking team: Duke, time left in period: 747.99 seconds
-Duke missed with 731.29 seconds left in period
-Current score: Duke 53 - Georgia 38
-
-Current attacking team: Georgia, time left in period: 731.29 seconds
-Georgia missed with 711.98 seconds left in period
-Current score: Duke 53 - Georgia 38
-
-Current attacking team: Duke, time left in period: 711.98 seconds
-Duke offensive_rebound with 696.15 seconds left in period
-Current score: Duke 53 - Georgia 38
-
-Current attacking team: Duke, time left in period: 696.15 seconds
-Duke 2 ft_made with 679.50 seconds left in period
-Current score: Duke 55 - Georgia 38
-
-Current attacking team: Georgia, time left in period: 679.50 seconds
-Georgia 2pt_made with 666.12 seconds left in period
-Current score: Duke 55 - Georgia 40
-
-Current attacking team: Duke, time left in period: 666.12 seconds
-Duke 2pt_made with 647.31 seconds left in period
-Current score: Duke 57 - Georgia 40
-
-Current attacking team: Georgia, time left in period: 647.31 seconds
-Georgia 2pt_made with 628.90 seconds left in period
-Current score: Duke 57 - Georgia 42
-
-Current attacking team: Duke, time left in period: 628.90 seconds
-Duke 2pt_made with 614.41 seconds left in period
-Current score: Duke 59 - Georgia 42
-
-Current attacking team: Georgia, time left in period: 614.41 seconds
-Georgia missed with 599.14 seconds left in period
-Current score: Duke 59 - Georgia 42
-
-Current attacking team: Duke, time left in period: 599.14 seconds
-Duke 2pt_made with 581.26 seconds left in period
-Current score: Duke 61 - Georgia 42
-
-Current attacking team: Georgia, time left in period: 581.26 seconds
-Georgia missed with 566.17 seconds left in period
-Current score: Duke 61 - Georgia 42
-
-Current attacking team: Duke, time left in period: 566.17 seconds
-Duke missed with 550.53 seconds left in period
-Current score: Duke 61 - Georgia 42
-
-Current attacking team: Georgia, time left in period: 550.53 seconds
-Georgia missed with 535.75 seconds left in period
-Current score: Duke 61 - Georgia 42
-
-Current attacking team: Duke, time left in period: 535.75 seconds
-Duke missed with 515.08 seconds left in period
-Current score: Duke 61 - Georgia 42
-
-Current attacking team: Georgia, time left in period: 515.08 seconds
-Georgia offensive_rebound with 498.35 seconds left in period
-Current score: Duke 61 - Georgia 42
-
-Current attacking team: Georgia, time left in period: 498.35 seconds
-Georgia 2pt_made with 483.03 seconds left in period
-Current score: Duke 61 - Georgia 44
-
-Current attacking team: Duke, time left in period: 483.03 seconds
-Duke missed with 463.48 seconds left in period
-Current score: Duke 61 - Georgia 44
-
-Current attacking team: Georgia, time left in period: 463.48 seconds
-Georgia 1 ft_made with 446.16 seconds left in period
-Current score: Duke 61 - Georgia 45
-
-Current attacking team: Duke, time left in period: 446.16 seconds
-Duke offensive_rebound with 426.02 seconds left in period
-Current score: Duke 61 - Georgia 45
-
-Current attacking team: Duke, time left in period: 426.02 seconds
-Duke offensive_rebound with 407.24 seconds left in period
-Current score: Duke 61 - Georgia 45
-
-Current attacking team: Duke, time left in period: 407.24 seconds
-Duke offensive_rebound with 391.07 seconds left in period
-Current score: Duke 61 - Georgia 45
-
-Current attacking team: Duke, time left in period: 391.07 seconds
-Duke turnover with 374.15 seconds left in period
-Current score: Duke 61 - Georgia 45
-
-Current attacking team: Georgia, time left in period: 374.15 seconds
-Georgia 3pt_made with 360.27 seconds left in period
-Current score: Duke 61 - Georgia 48
-
-Current attacking team: Duke, time left in period: 360.27 seconds
-Duke missed with 341.81 seconds left in period
-Current score: Duke 61 - Georgia 48
-
-Current attacking team: Georgia, time left in period: 341.81 seconds
-Georgia 2pt_made with 326.18 seconds left in period
-Current score: Duke 61 - Georgia 50
-
-Current attacking team: Duke, time left in period: 326.18 seconds
-Duke 2pt_made with 308.20 seconds left in period
-Current score: Duke 63 - Georgia 50
-
-Current attacking team: Georgia, time left in period: 308.20 seconds
-Georgia turnover with 289.00 seconds left in period
-Current score: Duke 63 - Georgia 50
-
-Current attacking team: Duke, time left in period: 289.00 seconds
-Duke 2 ft_made with 270.29 seconds left in period
-Current score: Duke 65 - Georgia 50
-
-Current attacking team: Georgia, time left in period: 270.29 seconds
-Georgia 3pt_made with 252.31 seconds left in period
-Current score: Duke 65 - Georgia 53
-
-Current attacking team: Duke, time left in period: 252.31 seconds
-Duke 3pt_made with 235.34 seconds left in period
-Current score: Duke 68 - Georgia 53
-
-Current attacking team: Georgia, time left in period: 235.34 seconds
-Georgia missed with 221.34 seconds left in period
-Current score: Duke 68 - Georgia 53
-
-Current attacking team: Duke, time left in period: 221.34 seconds
-Duke 2 ft_made with 206.81 seconds left in period
-Current score: Duke 70 - Georgia 53
-
-Current attacking team: Georgia, time left in period: 206.81 seconds
-Georgia turnover with 188.39 seconds left in period
-Current score: Duke 70 - Georgia 53
-
-Current attacking team: Duke, time left in period: 188.39 seconds
-Duke missed with 167.48 seconds left in period
-Current score: Duke 70 - Georgia 53
-
-Current attacking team: Georgia, time left in period: 167.48 seconds
-Georgia offensive_rebound with 154.38 seconds left in period
-Current score: Duke 70 - Georgia 53
-
-Current attacking team: Georgia, time left in period: 154.38 seconds
-Georgia missed with 136.19 seconds left in period
-Current score: Duke 70 - Georgia 53
-
-Current attacking team: Duke, time left in period: 136.19 seconds
-Duke missed with 115.10 seconds left in period
-Current score: Duke 70 - Georgia 53
-
-Current attacking team: Georgia, time left in period: 115.10 seconds
-Georgia 3pt_made with 98.75 seconds left in period
-Current score: Duke 70 - Georgia 56
-
-Current attacking team: Duke, time left in period: 98.75 seconds
-Duke missed with 79.20 seconds left in period
-Current score: Duke 70 - Georgia 56
-
-Current attacking team: Georgia, time left in period: 79.20 seconds
-Georgia turnover with 64.02 seconds left in period
-Current score: Duke 70 - Georgia 56
-
-Current attacking team: Duke, time left in period: 64.02 seconds
-Duke 2pt_made with 47.78 seconds left in period
-Current score: Duke 72 - Georgia 56
-
-Current attacking team: Georgia, time left in period: 47.78 seconds
-Georgia offensive_rebound with 30.00 seconds left in period
-Current score: Duke 72 - Georgia 56
-
-Current attacking team: Georgia, time left in period: 30.00 seconds
-Georgia missed with 11.68 seconds left in period
-Current score: Duke 72 - Georgia 56
-
-Current attacking team: Duke, time left in period: 11.68 seconds
-Duke 1 ft_made with 0.00 seconds left in period
-Current score: Duke 73 - Georgia 56
+Current attacking team: Ole Miss, time left in period: 1200.00 seconds
+Ole Miss missed with 1180.29 seconds left in period
+Current score: Ole Miss 34 - Georgia 37
+
+Current attacking team: Georgia, time left in period: 1180.29 seconds
+Georgia 2pt_made with 1161.77 seconds left in period
+Current score: Ole Miss 34 - Georgia 39
+
+Current attacking team: Ole Miss, time left in period: 1161.77 seconds
+Ole Miss offensive_rebound with 1141.95 seconds left in period
+Current score: Ole Miss 34 - Georgia 39
+
+Current attacking team: Ole Miss, time left in period: 1141.95 seconds
+Ole Miss missed with 1123.23 seconds left in period
+Current score: Ole Miss 34 - Georgia 39
+
+Current attacking team: Georgia, time left in period: 1123.23 seconds
+Georgia 3pt_made with 1110.14 seconds left in period
+Current score: Ole Miss 34 - Georgia 42
+
+Current attacking team: Ole Miss, time left in period: 1110.14 seconds
+Ole Miss turnover with 1094.81 seconds left in period
+Current score: Ole Miss 34 - Georgia 42
+
+Current attacking team: Georgia, time left in period: 1094.81 seconds
+Georgia 3pt_made with 1077.17 seconds left in period
+Current score: Ole Miss 34 - Georgia 45
+
+Current attacking team: Ole Miss, time left in period: 1077.17 seconds
+Ole Miss missed with 1062.27 seconds left in period
+Current score: Ole Miss 34 - Georgia 45
+
+Current attacking team: Georgia, time left in period: 1062.27 seconds
+Georgia missed with 1043.86 seconds left in period
+Current score: Ole Miss 34 - Georgia 45
+
+Current attacking team: Ole Miss, time left in period: 1043.86 seconds
+Ole Miss turnover with 1022.99 seconds left in period
+Current score: Ole Miss 34 - Georgia 45
+
+Current attacking team: Georgia, time left in period: 1022.99 seconds
+Georgia 3 ft_made with 1009.07 seconds left in period
+Current score: Ole Miss 34 - Georgia 48
+
+Current attacking team: Ole Miss, time left in period: 1009.07 seconds
+Ole Miss 3 ft_made with 991.91 seconds left in period
+Current score: Ole Miss 37 - Georgia 48
+
+Current attacking team: Georgia, time left in period: 991.91 seconds
+Georgia missed with 972.38 seconds left in period
+Current score: Ole Miss 37 - Georgia 48
+
+Current attacking team: Ole Miss, time left in period: 972.38 seconds
+Ole Miss 2pt_made with 952.19 seconds left in period
+Current score: Ole Miss 39 - Georgia 48
+
+Current attacking team: Georgia, time left in period: 952.19 seconds
+Georgia 2pt_made with 933.65 seconds left in period
+Current score: Ole Miss 39 - Georgia 50
+
+Current attacking team: Ole Miss, time left in period: 933.65 seconds
+Ole Miss offensive_rebound with 918.06 seconds left in period
+Current score: Ole Miss 39 - Georgia 50
+
+Current attacking team: Ole Miss, time left in period: 918.06 seconds
+Ole Miss 3pt_made with 898.75 seconds left in period
+Current score: Ole Miss 42 - Georgia 50
+
+Current attacking team: Georgia, time left in period: 898.75 seconds
+Georgia 1 ft_made with 880.08 seconds left in period
+Current score: Ole Miss 42 - Georgia 51
+
+Current attacking team: Ole Miss, time left in period: 880.08 seconds
+Ole Miss missed with 860.71 seconds left in period
+Current score: Ole Miss 42 - Georgia 51
+
+Current attacking team: Georgia, time left in period: 860.71 seconds
+Georgia offensive_rebound with 847.28 seconds left in period
+Current score: Ole Miss 42 - Georgia 51
+
+Current attacking team: Georgia, time left in period: 847.28 seconds
+Georgia 2pt_made with 831.39 seconds left in period
+Current score: Ole Miss 42 - Georgia 53
+
+Current attacking team: Ole Miss, time left in period: 831.39 seconds
+Ole Miss 3pt_made with 816.27 seconds left in period
+Current score: Ole Miss 45 - Georgia 53
+
+Current attacking team: Georgia, time left in period: 816.27 seconds
+Georgia 3pt_made with 797.44 seconds left in period
+Current score: Ole Miss 45 - Georgia 56
+
+Current attacking team: Ole Miss, time left in period: 797.44 seconds
+Ole Miss 2 ft_made with 781.82 seconds left in period
+Current score: Ole Miss 47 - Georgia 56
+
+Current attacking team: Georgia, time left in period: 781.82 seconds
+Georgia 3 ft_made with 764.32 seconds left in period
+Current score: Ole Miss 47 - Georgia 59
+
+Current attacking team: Ole Miss, time left in period: 764.32 seconds
+Ole Miss 2 ft_made with 747.90 seconds left in period
+Current score: Ole Miss 49 - Georgia 59
+
+Current attacking team: Georgia, time left in period: 747.90 seconds
+Georgia 2pt_made with 729.67 seconds left in period
+Current score: Ole Miss 49 - Georgia 61
+
+Current attacking team: Ole Miss, time left in period: 729.67 seconds
+Ole Miss turnover with 713.14 seconds left in period
+Current score: Ole Miss 49 - Georgia 61
+
+Current attacking team: Georgia, time left in period: 713.14 seconds
+Georgia missed with 694.84 seconds left in period
+Current score: Ole Miss 49 - Georgia 61
+
+Current attacking team: Ole Miss, time left in period: 694.84 seconds
+Ole Miss missed with 676.27 seconds left in period
+Current score: Ole Miss 49 - Georgia 61
+
+Current attacking team: Georgia, time left in period: 676.27 seconds
+Georgia 2pt_made with 657.15 seconds left in period
+Current score: Ole Miss 49 - Georgia 63
+
+Current attacking team: Ole Miss, time left in period: 657.15 seconds
+Ole Miss turnover with 638.13 seconds left in period
+Current score: Ole Miss 49 - Georgia 63
+
+Current attacking team: Georgia, time left in period: 638.13 seconds
+Georgia 2pt_made with 619.74 seconds left in period
+Current score: Ole Miss 49 - Georgia 65
+
+Current attacking team: Ole Miss, time left in period: 619.74 seconds
+Ole Miss missed with 603.91 seconds left in period
+Current score: Ole Miss 49 - Georgia 65
+
+Current attacking team: Georgia, time left in period: 603.91 seconds
+Georgia 3pt_made with 589.77 seconds left in period
+Current score: Ole Miss 49 - Georgia 68
+
+Current attacking team: Ole Miss, time left in period: 589.77 seconds
+Ole Miss 2pt_made with 575.39 seconds left in period
+Current score: Ole Miss 51 - Georgia 68
+
+Current attacking team: Georgia, time left in period: 575.39 seconds
+Georgia offensive_rebound with 561.81 seconds left in period
+Current score: Ole Miss 51 - Georgia 68
+
+Current attacking team: Georgia, time left in period: 561.81 seconds
+Georgia 3pt_made with 543.98 seconds left in period
+Current score: Ole Miss 51 - Georgia 71
+
+Current attacking team: Ole Miss, time left in period: 543.98 seconds
+Ole Miss 2pt_made with 528.37 seconds left in period
+Current score: Ole Miss 53 - Georgia 71
+
+Current attacking team: Georgia, time left in period: 528.37 seconds
+Georgia 2pt_made with 510.38 seconds left in period
+Current score: Ole Miss 53 - Georgia 73
+
+Current attacking team: Ole Miss, time left in period: 510.38 seconds
+Ole Miss missed with 492.18 seconds left in period
+Current score: Ole Miss 53 - Georgia 73
+
+Current attacking team: Georgia, time left in period: 492.18 seconds
+Georgia missed with 475.63 seconds left in period
+Current score: Ole Miss 53 - Georgia 73
+
+Current attacking team: Ole Miss, time left in period: 475.63 seconds
+Ole Miss offensive_rebound with 459.96 seconds left in period
+Current score: Ole Miss 53 - Georgia 73
+
+Current attacking team: Ole Miss, time left in period: 459.96 seconds
+Ole Miss 3 ft_made with 444.40 seconds left in period
+Current score: Ole Miss 56 - Georgia 73
+
+Current attacking team: Georgia, time left in period: 444.40 seconds
+Georgia missed with 425.22 seconds left in period
+Current score: Ole Miss 56 - Georgia 73
+
+Current attacking team: Ole Miss, time left in period: 425.22 seconds
+Ole Miss 2pt_made with 406.87 seconds left in period
+Current score: Ole Miss 58 - Georgia 73
+
+Current attacking team: Georgia, time left in period: 406.87 seconds
+Georgia 1 ft_made with 387.73 seconds left in period
+Current score: Ole Miss 58 - Georgia 74
+
+Current attacking team: Ole Miss, time left in period: 387.73 seconds
+Ole Miss offensive_rebound with 373.29 seconds left in period
+Current score: Ole Miss 58 - Georgia 74
+
+Current attacking team: Ole Miss, time left in period: 373.29 seconds
+Ole Miss offensive_rebound with 353.69 seconds left in period
+Current score: Ole Miss 58 - Georgia 74
+
+Current attacking team: Ole Miss, time left in period: 353.69 seconds
+Ole Miss 2pt_made with 339.56 seconds left in period
+Current score: Ole Miss 60 - Georgia 74
+
+Current attacking team: Georgia, time left in period: 339.56 seconds
+Georgia 2 ft_made with 326.37 seconds left in period
+Current score: Ole Miss 60 - Georgia 76
+
+Current attacking team: Ole Miss, time left in period: 326.37 seconds
+Ole Miss 2 ft_made with 309.65 seconds left in period
+Current score: Ole Miss 62 - Georgia 76
+
+Current attacking team: Georgia, time left in period: 309.65 seconds
+Georgia missed with 291.20 seconds left in period
+Current score: Ole Miss 62 - Georgia 76
+
+Current attacking team: Ole Miss, time left in period: 291.20 seconds
+Ole Miss 2pt_made with 274.81 seconds left in period
+Current score: Ole Miss 64 - Georgia 76
+
+Current attacking team: Georgia, time left in period: 274.81 seconds
+Georgia turnover with 256.59 seconds left in period
+Current score: Ole Miss 64 - Georgia 76
+
+Current attacking team: Ole Miss, time left in period: 256.59 seconds
+Ole Miss missed with 240.61 seconds left in period
+Current score: Ole Miss 64 - Georgia 76
+
+Current attacking team: Georgia, time left in period: 240.61 seconds
+Georgia 3pt_made with 225.32 seconds left in period
+Current score: Ole Miss 64 - Georgia 79
+
+Current attacking team: Ole Miss, time left in period: 225.32 seconds
+Ole Miss 2 ft_made with 207.65 seconds left in period
+Current score: Ole Miss 66 - Georgia 79
+
+Current attacking team: Georgia, time left in period: 207.65 seconds
+Georgia offensive_rebound with 191.28 seconds left in period
+Current score: Ole Miss 66 - Georgia 79
+
+Current attacking team: Georgia, time left in period: 191.28 seconds
+Georgia missed with 175.83 seconds left in period
+Current score: Ole Miss 66 - Georgia 79
+
+Current attacking team: Ole Miss, time left in period: 175.83 seconds
+Ole Miss 3pt_made with 157.01 seconds left in period
+Current score: Ole Miss 69 - Georgia 79
+
+Current attacking team: Georgia, time left in period: 157.01 seconds
+Georgia missed with 140.59 seconds left in period
+Current score: Ole Miss 69 - Georgia 79
+
+Current attacking team: Ole Miss, time left in period: 140.59 seconds
+Ole Miss 2pt_made with 122.83 seconds left in period
+Current score: Ole Miss 71 - Georgia 79
+
+Current attacking team: Georgia, time left in period: 122.83 seconds
+Georgia 3pt_made with 106.76 seconds left in period
+Current score: Ole Miss 71 - Georgia 82
+
+Current attacking team: Ole Miss, time left in period: 106.76 seconds
+Ole Miss missed with 88.44 seconds left in period
+Current score: Ole Miss 71 - Georgia 82
+
+Current attacking team: Georgia, time left in period: 88.44 seconds
+Georgia 3pt_made with 73.75 seconds left in period
+Current score: Ole Miss 71 - Georgia 85
+
+Current attacking team: Ole Miss, time left in period: 73.75 seconds
+Ole Miss offensive_rebound with 54.60 seconds left in period
+Current score: Ole Miss 71 - Georgia 85
+
+Current attacking team: Ole Miss, time left in period: 54.60 seconds
+Ole Miss 2pt_made with 39.08 seconds left in period
+Current score: Ole Miss 73 - Georgia 85
+
+Current attacking team: Georgia, time left in period: 39.08 seconds
+Georgia turnover with 22.91 seconds left in period
+Current score: Ole Miss 73 - Georgia 85
+
+Current attacking team: Ole Miss, time left in period: 22.91 seconds
+Ole Miss missed with 7.67 seconds left in period
+Current score: Ole Miss 73 - Georgia 85
+
+Current attacking team: Georgia, time left in period: 7.67 seconds
+Georgia turnover with 0.00 seconds left in period
+Current score: Ole Miss 73 - Georgia 85
 End of game

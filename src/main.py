@@ -3,7 +3,7 @@ def main():
     from classes import Team
     from game import Game
 
-    t1 = Team("Duke", "ACC", 2026)
+    t1 = Team("Ole Miss", "SEC", 2026)
     t2 = Team("Georgia", "SEC", 2026)
 
     # Check if data is available for both teams before simulating

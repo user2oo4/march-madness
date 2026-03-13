@@ -1,0 +1,120 @@
+{
+    "season": 2026,
+    "seasonLabel": "20252026",
+    "teamId": 101,
+    "team": "Georgia Tech",
+    "conference": "ACC",
+    "games": 31,
+    "wins": 11,
+    "losses": 20,
+    "totalMinutes": 1255,
+    "pace": 68.3,
+    "teamStats": {
+        "assists": 489,
+        "blocks": 122,
+        "steals": 188,
+        "possessions": 2148,
+        "trueShooting": 53.9,
+        "rating": 106.5,
+        "fieldGoals": {
+            "made": 817,
+            "attempted": 1849,
+            "pct": 44.2
+        },
+        "twoPointFieldGoals": {
+            "made": 602,
+            "attempted": 1236,
+            "pct": 48.7
+        },
+        "threePointFieldGoals": {
+            "made": 215,
+            "attempted": 613,
+            "pct": 35.1
+        },
+        "freeThrows": {
+            "made": 438,
+            "attempted": 616,
+            "pct": 71.1
+        },
+        "rebounds": {
+            "offensive": 330,
+            "defensive": 819,
+            "total": 1149
+        },
+        "turnovers": {
+            "total": 415,
+            "teamTotal": 20
+        },
+        "fouls": {
+            "total": 558,
+            "technical": 3,
+            "flagrant": 2
+        },
+        "points": {
+            "total": 2287,
+            "inPaint": 1046,
+            "offTurnovers": 379,
+            "fastBreak": 278
+        },
+        "fourFactors": {
+            "effectiveFieldGoalPct": 50,
+            "turnoverRatio": 0.19,
+            "offensiveReboundPct": 28.7,
+            "freeThrowRate": 33.3
+        }
+    },
+    "opponentStats": {
+        "assists": 463,
+        "blocks": 134,
+        "steals": 251,
+        "possessions": 2137,
+        "trueShooting": 54,
+        "rating": 112.3,
+        "fieldGoals": {
+            "made": 822,
+            "attempted": 1931,
+            "pct": 42.6
+        },
+        "twoPointFieldGoals": {
+            "made": 538,
+            "attempted": 1074,
+            "pct": 50.1
+        },
+        "threePointFieldGoals": {
+            "made": 284,
+            "attempted": 857,
+            "pct": 33.1
+        },
+        "freeThrows": {
+            "made": 472,
+            "attempted": 661,
+            "pct": 71.4
+        },
+        "rebounds": {
+            "offensive": 362,
+            "defensive": 772,
+            "total": 1134
+        },
+        "turnovers": {
+            "total": 347,
+            "teamTotal": 19
+        },
+        "fouls": {
+            "total": 528,
+            "technical": 1,
+            "flagrant": 1
+        },
+        "points": {
+            "total": 2400,
+            "inPaint": 922,
+            "offTurnovers": 443,
+            "fastBreak": 341
+        },
+        "fourFactors": {
+            "effectiveFieldGoalPct": 49.9,
+            "turnoverRatio": 0.16,
+            "offensiveReboundPct": 31.9,
+            "freeThrowRate": 34.2
+        }
+    }
+}
