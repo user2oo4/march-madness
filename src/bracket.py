@@ -10,12 +10,102 @@ class Matchup:
         self.winner = None
     
     def find_winner(self):
-        self.team1 = self.team1.find_winner() if isinstance(self.team1, Matchup) else self.team1
-        self.team2 = self.team2.find_winner() if isinstance(self.team2, Matchup) else self.team2
-        game = Game(self.team1, self.team2, self.season)
-        game.simulate_game(period_cnt=2, adjusted=True)
-        self.winner = self.team1 if game.score[self.team1.name] > game.score[self.team2.name] else self.team2
+        t1 = self.team1.find_winner() if isinstance(self.team1, Matchup) else self.team1
+        t2 = self.team2.find_winner() if isinstance(self.team2, Matchup) else self.team2
+        self.game = Game(t1, t2, self.season)
+        self.game.simulate_game(period_cnt=2, adjusted=True)
+        self.winner = t1 if self.game.score[t1.name] > self.game.score[t2.name] else t2
         return self.winner
+
+def parse_bracket_file(filename, season):
+    """
+    Parse a bracket file with round names and matchup labels.
+    Format:
+    - Lines starting with 'Round:' indicate a new round.
+    - Lines starting with 'Label:' indicate a matchup label.
+    - Each matchup consists of two entries (team name or label reference).
+    - Reference previous winners by label (e.g., 'First Four Game 1 Winner').
+    Returns the root Matchup and a list of all matchups.
+    """
+    with open(filename, 'r') as f:
+        lines = [line.strip() for line in f if line.strip() != '']
+
+    matchups = []
+    label_to_matchup = {}
+    round_name = None
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith('Round:'):
+            round_name = line[len('Round:'):].strip()
+            i += 1
+            continue
+        label = None
+        if line.startswith('Label:'):
+            label = line[len('Label:'):].strip()
+            i += 1
+            line = lines[i]
+        entry1 = line
+        entry2 = lines[i+1]
+        def get_entry(entry):
+            if entry.endswith('Winner'):
+                ref_label = entry[:-len('Winner')].strip()
+                return label_to_matchup[ref_label].find_winner()
+            else:
+                # Parse team name and seed
+                parts = entry.split()
+                if len(parts) > 1 and parts[-1].isdigit():
+                    seed = int(parts[-1])
+                    name = ' '.join(parts[:-1])
+                else:
+                    seed = None
+                    name = entry
+                team = Team(name, '', season)
+                team.seed = seed
+                return team
+        team1 = get_entry(entry1)
+        team2 = get_entry(entry2)
+        matchup = Matchup(team1, team2, season)
+        matchup.round_name = round_name
+        matchup.label = label
+        matchups.append(matchup)
+        if label:
+            label_to_matchup[label] = matchup
+        i += 2
+
+def simulate_bracket_from_file(filename, season=2026, output_file='bracket_results.txt'):
+    root, matchups = parse_bracket_file(filename, season)
+    winner = root.find_winner()
+    results = []
+    for idx, matchup in enumerate(matchups):
+        def team_str(team):
+            if isinstance(team, Team):
+                return f"{team.name} ({team.seed})" if getattr(team, 'seed', None) is not None else team.name
+            else:
+                return f"{team.label} Winner"
+        t1 = team_str(matchup.team1)
+        t2 = team_str(matchup.team2)
+        round_str = f"Round: {matchup.round_name}" if hasattr(matchup, 'round_name') and matchup.round_name else ""
+        label_str = f"Label: {matchup.label}" if hasattr(matchup, 'label') and matchup.label else f"Matchup {idx+1}"
+        winner_str = team_str(matchup.winner)
+        scoreline = f"{round_str} | {label_str}: {t1} vs {t2} | Winner: {winner_str} | Score: {matchup.game.score[matchup.team1.name]} - {matchup.game.score[matchup.team2.name]}"
+        pbp = '\n'.join(matchup.game.play_by_play)
+        results.extend([scoreline, pbp, ''])
+    with open(output_file, 'w') as f:
+        f.write(f"Tournament Winner: {winner.name}\n\n")
+        for line in results:
+            f.write(line + '\n')
+
+# Utility to get all matchups in order (for output)
+def _all_matchups(self):
+    result = []
+    if isinstance(self.team1, Matchup):
+        result.extend(self.team1._all_matchups())
+    if isinstance(self.team2, Matchup):
+        result.extend(self.team2._all_matchups())
+    result.append(self)
+    return result
+Matchup._all_matchups = _all_matchups
         
 class Bracket:
     def __init__(self, season):

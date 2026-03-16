@@ -72,6 +72,35 @@ def fetch_team_shooting_stats_for_season(team_name, season):
 	else:
 		print(f"Failed to fetch shooting stats for {team_name} in {season}: {response.status_code}")
 		return None
+	
+def get_team_conference(team_name, season):
+	# Conference is in ratings_elo file
+	with open('data/ratings_elo.json', 'r') as f:
+		data = json.load(f)
+		team_data = next((item for item in data if item['team'] == team_name and item['season'] == season), None)
+		if team_data:
+			return team_data.get('conference')
+		else:
+			print(f"No conference found for {team_name} in season {season}.")
+			return None
+
+def get_conference_adjustment_factor(conference):
+	# Placeholder values, should be based on actual data analysis
+	conference_factors = {
+		'ACC': 1.05,
+		'Big Ten': 1.04,
+		'SEC': 1.03,
+		'Big 12': 1.02,
+		'Pac-12': 1.01,
+		'AAC': 0.98,
+		'Mountain West': 0.97,
+		'WCC': 0.96,
+		'Conference USA': 0.95,
+		'Sun Belt': 0.94,
+		'MAC': 0.93,
+		'MWC': 0.92
+	}
+	return conference_factors.get(conference, 1.0)
 
 if __name__ == "__main__":
 	ratings = fetch_team_ratings()

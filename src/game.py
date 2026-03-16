@@ -14,6 +14,7 @@ class Game:
         self.ratings = {}
         self.realized_stats = {}
         self.game_stats = {} # Simulated stats at the end of the game (2pts, 3pts, ft, tovs, rebounds)
+        self.ot_count = 0
 
     def get_data(self):
         for team in self.teams:
@@ -67,6 +68,8 @@ class Game:
             start_team = self.teams[1] if start_team == self.teams[0] else self.teams[0]
         while self.score[self.teams[0].name] == self.score[self.teams[1].name]:
             self.play_by_play.append("Start of overtime")
+            start_team = random.choice(self.teams)
+            self.ot_count += 1
             self.simulate_period(start_team, period_length=5*60)
         self.play_by_play.append("End of game")
         print(f"Final Score: {self.teams[0].name} {self.score[self.teams[0].name]} - {self.teams[1].name} {self.score[self.teams[1].name]}")
@@ -101,7 +104,7 @@ class Game:
             self.play_by_play.append(f"Current score: {self.teams[0].name} {self.score[self.teams[0].name]} - {self.teams[1].name} {self.score[self.teams[1].name]}")
 
     def simulate_play(self, attack_team, time_left):
-        print("attacking team", attack_team.name)
+        # print("attacking team", attack_team.name)
         tov_rate = self.realized_stats[attack_team.name]['tov_rate']
         possession_time = self.realized_stats[attack_team.name]['possession_time']
         success_rate_mul = 1.0
@@ -113,13 +116,13 @@ class Game:
         if random.random() < tov_rate:
             return 'turnover', possession_time
         shot_type = random.choices(['2pt', '3pt'], weights=[self.realized_stats[attack_team.name]['2pt_distribution'], self.realized_stats[attack_team.name]['3pt_distribution']])[0]
-        print("shot_type", shot_type)
+        # print("shot_type", shot_type)
         success_rate = self.realized_stats[attack_team.name][f'{shot_type}_percentage'] * success_rate_mul
         fouled_rate = self.realized_stats[attack_team.name]['ft_rate'] * (1.0/2) * self.realized_stats[attack_team.name]['2pt_distribution'] + self.realized_stats[attack_team.name]['ft_rate'] * (1.0/3) * self.realized_stats[attack_team.name]['3pt_distribution']
-        print("fouled_rate", fouled_rate)
-        print("success_rate", success_rate)
+        # print("fouled_rate", fouled_rate)
+        # print("success_rate", success_rate)
         if random.random() * 100 < fouled_rate:
-            print("Fouled!")
+            # print("Fouled!")
             success_rate = self.realized_stats[attack_team.name]['ft_percentage']
             if shot_type == '2pt':
                 # shoot 2 free throws
@@ -133,14 +136,14 @@ class Game:
                 return f"{ft_made} ft_made", possession_time
         # Not account for and-1 situations
         elif random.random() * 100 < success_rate:
-            print(f"{shot_type} shot made!")
+            # print(f"{shot_type} shot made!")
             self.game_stats[attack_team.name][f'{shot_type}_attempted'] += 1
             return f'{shot_type}_made', possession_time
         else:
-            print(f"{shot_type} shot missed.")
+            # print(f"{shot_type} shot missed.")
             offensive_rebound_rate = self.realized_stats[attack_team.name]['offensive_rebound_rate']
             self.game_stats[attack_team.name][f'{shot_type}_attempted'] += 1
-            print("offensive_rebound_rate", offensive_rebound_rate)
+            # print("offensive_rebound_rate", offensive_rebound_rate)
             if random.random() * 100 < offensive_rebound_rate:
                 return 'offensive_rebound', possession_time
             else:

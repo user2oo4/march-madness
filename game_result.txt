@@ -1,575 +1,571 @@
-Final Score: Ole Miss 73 - Georgia 85
+Final Score: Michigan State 60 - Georgia 47
 
 Play by Play Log:
-Start of game: Ole Miss vs Georgia
+Start of game: Michigan State vs Georgia
 Start of period 1
 
-Current attacking team: Ole Miss, time left in period: 1200.00 seconds
-Ole Miss 3pt_made with 1183.59 seconds left in period
-Current score: Ole Miss 3 - Georgia 0
-
-Current attacking team: Georgia, time left in period: 1183.59 seconds
-Georgia 0 ft_made with 1169.59 seconds left in period
-Current score: Ole Miss 3 - Georgia 0
-
-Current attacking team: Ole Miss, time left in period: 1169.59 seconds
-Ole Miss turnover with 1153.20 seconds left in period
-Current score: Ole Miss 3 - Georgia 0
-
-Current attacking team: Georgia, time left in period: 1153.20 seconds
-Georgia turnover with 1133.67 seconds left in period
-Current score: Ole Miss 3 - Georgia 0
-
-Current attacking team: Ole Miss, time left in period: 1133.67 seconds
-Ole Miss missed with 1119.30 seconds left in period
-Current score: Ole Miss 3 - Georgia 0
-
-Current attacking team: Georgia, time left in period: 1119.30 seconds
-Georgia 2pt_made with 1101.32 seconds left in period
-Current score: Ole Miss 3 - Georgia 2
-
-Current attacking team: Ole Miss, time left in period: 1101.32 seconds
-Ole Miss 1 ft_made with 1081.33 seconds left in period
-Current score: Ole Miss 4 - Georgia 2
-
-Current attacking team: Georgia, time left in period: 1081.33 seconds
-Georgia 2pt_made with 1065.66 seconds left in period
-Current score: Ole Miss 4 - Georgia 4
-
-Current attacking team: Ole Miss, time left in period: 1065.66 seconds
-Ole Miss missed with 1044.91 seconds left in period
-Current score: Ole Miss 4 - Georgia 4
-
-Current attacking team: Georgia, time left in period: 1044.91 seconds
-Georgia turnover with 1026.96 seconds left in period
-Current score: Ole Miss 4 - Georgia 4
-
-Current attacking team: Ole Miss, time left in period: 1026.96 seconds
-Ole Miss 2 ft_made with 1008.86 seconds left in period
-Current score: Ole Miss 6 - Georgia 4
-
-Current attacking team: Georgia, time left in period: 1008.86 seconds
-Georgia 3 ft_made with 992.41 seconds left in period
-Current score: Ole Miss 6 - Georgia 7
-
-Current attacking team: Ole Miss, time left in period: 992.41 seconds
-Ole Miss missed with 971.69 seconds left in period
-Current score: Ole Miss 6 - Georgia 7
-
-Current attacking team: Georgia, time left in period: 971.69 seconds
-Georgia turnover with 953.42 seconds left in period
-Current score: Ole Miss 6 - Georgia 7
-
-Current attacking team: Ole Miss, time left in period: 953.42 seconds
-Ole Miss missed with 937.69 seconds left in period
-Current score: Ole Miss 6 - Georgia 7
-
-Current attacking team: Georgia, time left in period: 937.69 seconds
-Georgia 1 ft_made with 922.51 seconds left in period
-Current score: Ole Miss 6 - Georgia 8
-
-Current attacking team: Ole Miss, time left in period: 922.51 seconds
-Ole Miss 2 ft_made with 906.84 seconds left in period
-Current score: Ole Miss 8 - Georgia 8
-
-Current attacking team: Georgia, time left in period: 906.84 seconds
-Georgia 3pt_made with 893.14 seconds left in period
-Current score: Ole Miss 8 - Georgia 11
-
-Current attacking team: Ole Miss, time left in period: 893.14 seconds
-Ole Miss 2pt_made with 874.21 seconds left in period
-Current score: Ole Miss 10 - Georgia 11
-
-Current attacking team: Georgia, time left in period: 874.21 seconds
-Georgia 3pt_made with 858.94 seconds left in period
-Current score: Ole Miss 10 - Georgia 14
-
-Current attacking team: Ole Miss, time left in period: 858.94 seconds
-Ole Miss missed with 839.47 seconds left in period
-Current score: Ole Miss 10 - Georgia 14
-
-Current attacking team: Georgia, time left in period: 839.47 seconds
-Georgia turnover with 825.55 seconds left in period
-Current score: Ole Miss 10 - Georgia 14
-
-Current attacking team: Ole Miss, time left in period: 825.55 seconds
-Ole Miss missed with 805.80 seconds left in period
-Current score: Ole Miss 10 - Georgia 14
-
-Current attacking team: Georgia, time left in period: 805.80 seconds
-Georgia 3pt_made with 792.17 seconds left in period
-Current score: Ole Miss 10 - Georgia 17
-
-Current attacking team: Ole Miss, time left in period: 792.17 seconds
-Ole Miss turnover with 776.57 seconds left in period
-Current score: Ole Miss 10 - Georgia 17
-
-Current attacking team: Georgia, time left in period: 776.57 seconds
-Georgia offensive_rebound with 759.84 seconds left in period
-Current score: Ole Miss 10 - Georgia 17
-
-Current attacking team: Georgia, time left in period: 759.84 seconds
-Georgia 3 ft_made with 744.70 seconds left in period
-Current score: Ole Miss 10 - Georgia 20
-
-Current attacking team: Ole Miss, time left in period: 744.70 seconds
-Ole Miss 2pt_made with 729.88 seconds left in period
-Current score: Ole Miss 12 - Georgia 20
-
-Current attacking team: Georgia, time left in period: 729.88 seconds
-Georgia 2pt_made with 710.37 seconds left in period
-Current score: Ole Miss 12 - Georgia 22
-
-Current attacking team: Ole Miss, time left in period: 710.37 seconds
-Ole Miss 2pt_made with 692.90 seconds left in period
-Current score: Ole Miss 14 - Georgia 22
-
-Current attacking team: Georgia, time left in period: 692.90 seconds
-Georgia turnover with 673.49 seconds left in period
-Current score: Ole Miss 14 - Georgia 22
-
-Current attacking team: Ole Miss, time left in period: 673.49 seconds
-Ole Miss 2pt_made with 657.61 seconds left in period
-Current score: Ole Miss 16 - Georgia 22
-
-Current attacking team: Georgia, time left in period: 657.61 seconds
-Georgia offensive_rebound with 643.78 seconds left in period
-Current score: Ole Miss 16 - Georgia 22
-
-Current attacking team: Georgia, time left in period: 643.78 seconds
-Georgia 1 ft_made with 628.42 seconds left in period
-Current score: Ole Miss 16 - Georgia 23
-
-Current attacking team: Ole Miss, time left in period: 628.42 seconds
-Ole Miss turnover with 607.98 seconds left in period
-Current score: Ole Miss 16 - Georgia 23
-
-Current attacking team: Georgia, time left in period: 607.98 seconds
-Georgia turnover with 589.85 seconds left in period
-Current score: Ole Miss 16 - Georgia 23
-
-Current attacking team: Ole Miss, time left in period: 589.85 seconds
-Ole Miss turnover with 571.31 seconds left in period
-Current score: Ole Miss 16 - Georgia 23
-
-Current attacking team: Georgia, time left in period: 571.31 seconds
-Georgia turnover with 553.64 seconds left in period
-Current score: Ole Miss 16 - Georgia 23
-
-Current attacking team: Ole Miss, time left in period: 553.64 seconds
-Ole Miss 2 ft_made with 533.55 seconds left in period
-Current score: Ole Miss 18 - Georgia 23
-
-Current attacking team: Georgia, time left in period: 533.55 seconds
-Georgia offensive_rebound with 517.47 seconds left in period
-Current score: Ole Miss 18 - Georgia 23
-
-Current attacking team: Georgia, time left in period: 517.47 seconds
-Georgia 2pt_made with 502.23 seconds left in period
-Current score: Ole Miss 18 - Georgia 25
-
-Current attacking team: Ole Miss, time left in period: 502.23 seconds
-Ole Miss 2pt_made with 485.14 seconds left in period
-Current score: Ole Miss 20 - Georgia 25
-
-Current attacking team: Georgia, time left in period: 485.14 seconds
-Georgia turnover with 467.20 seconds left in period
-Current score: Ole Miss 20 - Georgia 25
-
-Current attacking team: Ole Miss, time left in period: 467.20 seconds
-Ole Miss 2pt_made with 451.18 seconds left in period
-Current score: Ole Miss 22 - Georgia 25
-
-Current attacking team: Georgia, time left in period: 451.18 seconds
-Georgia missed with 434.59 seconds left in period
-Current score: Ole Miss 22 - Georgia 25
-
-Current attacking team: Ole Miss, time left in period: 434.59 seconds
-Ole Miss 2 ft_made with 416.45 seconds left in period
-Current score: Ole Miss 24 - Georgia 25
-
-Current attacking team: Georgia, time left in period: 416.45 seconds
-Georgia missed with 400.92 seconds left in period
-Current score: Ole Miss 24 - Georgia 25
-
-Current attacking team: Ole Miss, time left in period: 400.92 seconds
-Ole Miss turnover with 381.51 seconds left in period
-Current score: Ole Miss 24 - Georgia 25
-
-Current attacking team: Georgia, time left in period: 381.51 seconds
-Georgia missed with 363.90 seconds left in period
-Current score: Ole Miss 24 - Georgia 25
-
-Current attacking team: Ole Miss, time left in period: 363.90 seconds
-Ole Miss missed with 343.30 seconds left in period
-Current score: Ole Miss 24 - Georgia 25
-
-Current attacking team: Georgia, time left in period: 343.30 seconds
-Georgia 2pt_made with 328.21 seconds left in period
-Current score: Ole Miss 24 - Georgia 27
-
-Current attacking team: Ole Miss, time left in period: 328.21 seconds
-Ole Miss turnover with 313.99 seconds left in period
-Current score: Ole Miss 24 - Georgia 27
-
-Current attacking team: Georgia, time left in period: 313.99 seconds
-Georgia missed with 298.41 seconds left in period
-Current score: Ole Miss 24 - Georgia 27
-
-Current attacking team: Ole Miss, time left in period: 298.41 seconds
-Ole Miss offensive_rebound with 280.55 seconds left in period
-Current score: Ole Miss 24 - Georgia 27
-
-Current attacking team: Ole Miss, time left in period: 280.55 seconds
-Ole Miss 2pt_made with 261.11 seconds left in period
-Current score: Ole Miss 26 - Georgia 27
-
-Current attacking team: Georgia, time left in period: 261.11 seconds
-Georgia 2pt_made with 246.06 seconds left in period
-Current score: Ole Miss 26 - Georgia 29
-
-Current attacking team: Ole Miss, time left in period: 246.06 seconds
-Ole Miss turnover with 227.72 seconds left in period
-Current score: Ole Miss 26 - Georgia 29
-
-Current attacking team: Georgia, time left in period: 227.72 seconds
-Georgia missed with 212.44 seconds left in period
-Current score: Ole Miss 26 - Georgia 29
-
-Current attacking team: Ole Miss, time left in period: 212.44 seconds
-Ole Miss 3pt_made with 192.82 seconds left in period
-Current score: Ole Miss 29 - Georgia 29
-
-Current attacking team: Georgia, time left in period: 192.82 seconds
-Georgia 3pt_made with 177.43 seconds left in period
-Current score: Ole Miss 29 - Georgia 32
-
-Current attacking team: Ole Miss, time left in period: 177.43 seconds
-Ole Miss turnover with 157.17 seconds left in period
-Current score: Ole Miss 29 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 157.17 seconds
-Georgia turnover with 142.21 seconds left in period
-Current score: Ole Miss 29 - Georgia 32
-
-Current attacking team: Ole Miss, time left in period: 142.21 seconds
-Ole Miss 1 ft_made with 125.73 seconds left in period
-Current score: Ole Miss 30 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 125.73 seconds
-Georgia offensive_rebound with 106.25 seconds left in period
-Current score: Ole Miss 30 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 106.25 seconds
-Georgia offensive_rebound with 88.22 seconds left in period
-Current score: Ole Miss 30 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 88.22 seconds
-Georgia missed with 73.69 seconds left in period
-Current score: Ole Miss 30 - Georgia 32
-
-Current attacking team: Ole Miss, time left in period: 73.69 seconds
-Ole Miss 2pt_made with 53.62 seconds left in period
-Current score: Ole Miss 32 - Georgia 32
-
-Current attacking team: Georgia, time left in period: 53.62 seconds
-Georgia 3pt_made with 36.78 seconds left in period
-Current score: Ole Miss 32 - Georgia 35
-
-Current attacking team: Ole Miss, time left in period: 36.78 seconds
-Ole Miss 2pt_made with 18.59 seconds left in period
-Current score: Ole Miss 34 - Georgia 35
-
-Current attacking team: Georgia, time left in period: 18.59 seconds
-Georgia 2pt_made with 1.18 seconds left in period
-Current score: Ole Miss 34 - Georgia 37
-
-Current attacking team: Ole Miss, time left in period: 1.18 seconds
-Ole Miss missed with 0.00 seconds left in period
-Current score: Ole Miss 34 - Georgia 37
+Current attacking team: Michigan State, time left in period: 1200.00 seconds
+Michigan State offensive_rebound with 1181.39 seconds left in period
+Current score: Michigan State 0 - Georgia 0
+
+Current attacking team: Michigan State, time left in period: 1181.39 seconds
+Michigan State missed with 1165.57 seconds left in period
+Current score: Michigan State 0 - Georgia 0
+
+Current attacking team: Georgia, time left in period: 1165.57 seconds
+Georgia missed with 1151.96 seconds left in period
+Current score: Michigan State 0 - Georgia 0
+
+Current attacking team: Michigan State, time left in period: 1151.96 seconds
+Michigan State turnover with 1132.66 seconds left in period
+Current score: Michigan State 0 - Georgia 0
+
+Current attacking team: Georgia, time left in period: 1132.66 seconds
+Georgia 3 ft_made with 1113.97 seconds left in period
+Current score: Michigan State 0 - Georgia 3
+
+Current attacking team: Michigan State, time left in period: 1113.97 seconds
+Michigan State missed with 1092.61 seconds left in period
+Current score: Michigan State 0 - Georgia 3
+
+Current attacking team: Georgia, time left in period: 1092.61 seconds
+Georgia offensive_rebound with 1074.86 seconds left in period
+Current score: Michigan State 0 - Georgia 3
+
+Current attacking team: Georgia, time left in period: 1074.86 seconds
+Georgia turnover with 1056.03 seconds left in period
+Current score: Michigan State 0 - Georgia 3
+
+Current attacking team: Michigan State, time left in period: 1056.03 seconds
+Michigan State turnover with 1039.88 seconds left in period
+Current score: Michigan State 0 - Georgia 3
+
+Current attacking team: Georgia, time left in period: 1039.88 seconds
+Georgia missed with 1025.27 seconds left in period
+Current score: Michigan State 0 - Georgia 3
+
+Current attacking team: Michigan State, time left in period: 1025.27 seconds
+Michigan State 3pt_made with 1009.24 seconds left in period
+Current score: Michigan State 3 - Georgia 3
+
+Current attacking team: Georgia, time left in period: 1009.24 seconds
+Georgia missed with 989.74 seconds left in period
+Current score: Michigan State 3 - Georgia 3
+
+Current attacking team: Michigan State, time left in period: 989.74 seconds
+Michigan State turnover with 970.97 seconds left in period
+Current score: Michigan State 3 - Georgia 3
+
+Current attacking team: Georgia, time left in period: 970.97 seconds
+Georgia 2pt_made with 952.24 seconds left in period
+Current score: Michigan State 3 - Georgia 5
+
+Current attacking team: Michigan State, time left in period: 952.24 seconds
+Michigan State missed with 934.37 seconds left in period
+Current score: Michigan State 3 - Georgia 5
+
+Current attacking team: Georgia, time left in period: 934.37 seconds
+Georgia missed with 916.09 seconds left in period
+Current score: Michigan State 3 - Georgia 5
+
+Current attacking team: Michigan State, time left in period: 916.09 seconds
+Michigan State 2pt_made with 897.36 seconds left in period
+Current score: Michigan State 5 - Georgia 5
+
+Current attacking team: Georgia, time left in period: 897.36 seconds
+Georgia 2pt_made with 881.12 seconds left in period
+Current score: Michigan State 5 - Georgia 7
+
+Current attacking team: Michigan State, time left in period: 881.12 seconds
+Michigan State 1 ft_made with 863.70 seconds left in period
+Current score: Michigan State 6 - Georgia 7
+
+Current attacking team: Georgia, time left in period: 863.70 seconds
+Georgia missed with 844.46 seconds left in period
+Current score: Michigan State 6 - Georgia 7
+
+Current attacking team: Michigan State, time left in period: 844.46 seconds
+Michigan State 2pt_made with 824.64 seconds left in period
+Current score: Michigan State 8 - Georgia 7
+
+Current attacking team: Georgia, time left in period: 824.64 seconds
+Georgia missed with 807.71 seconds left in period
+Current score: Michigan State 8 - Georgia 7
+
+Current attacking team: Michigan State, time left in period: 807.71 seconds
+Michigan State 3pt_made with 792.26 seconds left in period
+Current score: Michigan State 11 - Georgia 7
+
+Current attacking team: Georgia, time left in period: 792.26 seconds
+Georgia missed with 773.64 seconds left in period
+Current score: Michigan State 11 - Georgia 7
+
+Current attacking team: Michigan State, time left in period: 773.64 seconds
+Michigan State 2 ft_made with 757.89 seconds left in period
+Current score: Michigan State 13 - Georgia 7
+
+Current attacking team: Georgia, time left in period: 757.89 seconds
+Georgia 2 ft_made with 741.91 seconds left in period
+Current score: Michigan State 13 - Georgia 9
+
+Current attacking team: Michigan State, time left in period: 741.91 seconds
+Michigan State 2pt_made with 727.21 seconds left in period
+Current score: Michigan State 15 - Georgia 9
+
+Current attacking team: Georgia, time left in period: 727.21 seconds
+Georgia missed with 708.55 seconds left in period
+Current score: Michigan State 15 - Georgia 9
+
+Current attacking team: Michigan State, time left in period: 708.55 seconds
+Michigan State 2pt_made with 690.24 seconds left in period
+Current score: Michigan State 17 - Georgia 9
+
+Current attacking team: Georgia, time left in period: 690.24 seconds
+Georgia turnover with 674.21 seconds left in period
+Current score: Michigan State 17 - Georgia 9
+
+Current attacking team: Michigan State, time left in period: 674.21 seconds
+Michigan State missed with 658.58 seconds left in period
+Current score: Michigan State 17 - Georgia 9
+
+Current attacking team: Georgia, time left in period: 658.58 seconds
+Georgia turnover with 644.69 seconds left in period
+Current score: Michigan State 17 - Georgia 9
+
+Current attacking team: Michigan State, time left in period: 644.69 seconds
+Michigan State turnover with 628.56 seconds left in period
+Current score: Michigan State 17 - Georgia 9
+
+Current attacking team: Georgia, time left in period: 628.56 seconds
+Georgia turnover with 612.23 seconds left in period
+Current score: Michigan State 17 - Georgia 9
+
+Current attacking team: Michigan State, time left in period: 612.23 seconds
+Michigan State 2pt_made with 597.55 seconds left in period
+Current score: Michigan State 19 - Georgia 9
+
+Current attacking team: Georgia, time left in period: 597.55 seconds
+Georgia turnover with 581.12 seconds left in period
+Current score: Michigan State 19 - Georgia 9
+
+Current attacking team: Michigan State, time left in period: 581.12 seconds
+Michigan State 3pt_made with 565.09 seconds left in period
+Current score: Michigan State 22 - Georgia 9
+
+Current attacking team: Georgia, time left in period: 565.09 seconds
+Georgia turnover with 545.92 seconds left in period
+Current score: Michigan State 22 - Georgia 9
+
+Current attacking team: Michigan State, time left in period: 545.92 seconds
+Michigan State missed with 530.19 seconds left in period
+Current score: Michigan State 22 - Georgia 9
+
+Current attacking team: Georgia, time left in period: 530.19 seconds
+Georgia 3pt_made with 514.63 seconds left in period
+Current score: Michigan State 22 - Georgia 12
+
+Current attacking team: Michigan State, time left in period: 514.63 seconds
+Michigan State turnover with 498.30 seconds left in period
+Current score: Michigan State 22 - Georgia 12
+
+Current attacking team: Georgia, time left in period: 498.30 seconds
+Georgia offensive_rebound with 484.46 seconds left in period
+Current score: Michigan State 22 - Georgia 12
+
+Current attacking team: Georgia, time left in period: 484.46 seconds
+Georgia turnover with 469.45 seconds left in period
+Current score: Michigan State 22 - Georgia 12
+
+Current attacking team: Michigan State, time left in period: 469.45 seconds
+Michigan State 2pt_made with 448.23 seconds left in period
+Current score: Michigan State 24 - Georgia 12
+
+Current attacking team: Georgia, time left in period: 448.23 seconds
+Georgia 2pt_made with 432.04 seconds left in period
+Current score: Michigan State 24 - Georgia 14
+
+Current attacking team: Michigan State, time left in period: 432.04 seconds
+Michigan State 1 ft_made with 413.86 seconds left in period
+Current score: Michigan State 25 - Georgia 14
+
+Current attacking team: Georgia, time left in period: 413.86 seconds
+Georgia 2 ft_made with 394.45 seconds left in period
+Current score: Michigan State 25 - Georgia 16
+
+Current attacking team: Michigan State, time left in period: 394.45 seconds
+Michigan State 3pt_made with 374.42 seconds left in period
+Current score: Michigan State 28 - Georgia 16
+
+Current attacking team: Georgia, time left in period: 374.42 seconds
+Georgia offensive_rebound with 360.41 seconds left in period
+Current score: Michigan State 28 - Georgia 16
+
+Current attacking team: Georgia, time left in period: 360.41 seconds
+Georgia missed with 342.97 seconds left in period
+Current score: Michigan State 28 - Georgia 16
+
+Current attacking team: Michigan State, time left in period: 342.97 seconds
+Michigan State turnover with 323.22 seconds left in period
+Current score: Michigan State 28 - Georgia 16
+
+Current attacking team: Georgia, time left in period: 323.22 seconds
+Georgia missed with 305.94 seconds left in period
+Current score: Michigan State 28 - Georgia 16
+
+Current attacking team: Michigan State, time left in period: 305.94 seconds
+Michigan State turnover with 287.32 seconds left in period
+Current score: Michigan State 28 - Georgia 16
+
+Current attacking team: Georgia, time left in period: 287.32 seconds
+Georgia 3 ft_made with 268.30 seconds left in period
+Current score: Michigan State 28 - Georgia 19
+
+Current attacking team: Michigan State, time left in period: 268.30 seconds
+Michigan State 2 ft_made with 251.25 seconds left in period
+Current score: Michigan State 30 - Georgia 19
+
+Current attacking team: Georgia, time left in period: 251.25 seconds
+Georgia 2pt_made with 237.85 seconds left in period
+Current score: Michigan State 30 - Georgia 21
+
+Current attacking team: Michigan State, time left in period: 237.85 seconds
+Michigan State 3pt_made with 221.13 seconds left in period
+Current score: Michigan State 33 - Georgia 21
+
+Current attacking team: Georgia, time left in period: 221.13 seconds
+Georgia missed with 207.63 seconds left in period
+Current score: Michigan State 33 - Georgia 21
+
+Current attacking team: Michigan State, time left in period: 207.63 seconds
+Michigan State 1 ft_made with 188.34 seconds left in period
+Current score: Michigan State 34 - Georgia 21
+
+Current attacking team: Georgia, time left in period: 188.34 seconds
+Georgia 2 ft_made with 174.59 seconds left in period
+Current score: Michigan State 34 - Georgia 23
+
+Current attacking team: Michigan State, time left in period: 174.59 seconds
+Michigan State 2pt_made with 157.05 seconds left in period
+Current score: Michigan State 36 - Georgia 23
+
+Current attacking team: Georgia, time left in period: 157.05 seconds
+Georgia offensive_rebound with 138.90 seconds left in period
+Current score: Michigan State 36 - Georgia 23
+
+Current attacking team: Georgia, time left in period: 138.90 seconds
+Georgia 2pt_made with 121.94 seconds left in period
+Current score: Michigan State 36 - Georgia 25
+
+Current attacking team: Michigan State, time left in period: 121.94 seconds
+Michigan State 1 ft_made with 103.21 seconds left in period
+Current score: Michigan State 37 - Georgia 25
+
+Current attacking team: Georgia, time left in period: 103.21 seconds
+Georgia missed with 87.90 seconds left in period
+Current score: Michigan State 37 - Georgia 25
+
+Current attacking team: Michigan State, time left in period: 87.90 seconds
+Michigan State 2pt_made with 67.68 seconds left in period
+Current score: Michigan State 39 - Georgia 25
+
+Current attacking team: Georgia, time left in period: 67.68 seconds
+Georgia 2pt_made with 50.78 seconds left in period
+Current score: Michigan State 39 - Georgia 27
+
+Current attacking team: Michigan State, time left in period: 50.78 seconds
+Michigan State missed with 35.64 seconds left in period
+Current score: Michigan State 39 - Georgia 27
+
+Current attacking team: Georgia, time left in period: 35.64 seconds
+Georgia missed with 19.88 seconds left in period
+Current score: Michigan State 39 - Georgia 27
+
+Current attacking team: Michigan State, time left in period: 19.88 seconds
+Michigan State missed with 0.00 seconds left in period
+Current score: Michigan State 39 - Georgia 27
 Start of period 2
 
-Current attacking team: Ole Miss, time left in period: 1200.00 seconds
-Ole Miss missed with 1180.29 seconds left in period
-Current score: Ole Miss 34 - Georgia 37
-
-Current attacking team: Georgia, time left in period: 1180.29 seconds
-Georgia 2pt_made with 1161.77 seconds left in period
-Current score: Ole Miss 34 - Georgia 39
-
-Current attacking team: Ole Miss, time left in period: 1161.77 seconds
-Ole Miss offensive_rebound with 1141.95 seconds left in period
-Current score: Ole Miss 34 - Georgia 39
-
-Current attacking team: Ole Miss, time left in period: 1141.95 seconds
-Ole Miss missed with 1123.23 seconds left in period
-Current score: Ole Miss 34 - Georgia 39
-
-Current attacking team: Georgia, time left in period: 1123.23 seconds
-Georgia 3pt_made with 1110.14 seconds left in period
-Current score: Ole Miss 34 - Georgia 42
-
-Current attacking team: Ole Miss, time left in period: 1110.14 seconds
-Ole Miss turnover with 1094.81 seconds left in period
-Current score: Ole Miss 34 - Georgia 42
-
-Current attacking team: Georgia, time left in period: 1094.81 seconds
-Georgia 3pt_made with 1077.17 seconds left in period
-Current score: Ole Miss 34 - Georgia 45
-
-Current attacking team: Ole Miss, time left in period: 1077.17 seconds
-Ole Miss missed with 1062.27 seconds left in period
-Current score: Ole Miss 34 - Georgia 45
-
-Current attacking team: Georgia, time left in period: 1062.27 seconds
-Georgia missed with 1043.86 seconds left in period
-Current score: Ole Miss 34 - Georgia 45
-
-Current attacking team: Ole Miss, time left in period: 1043.86 seconds
-Ole Miss turnover with 1022.99 seconds left in period
-Current score: Ole Miss 34 - Georgia 45
-
-Current attacking team: Georgia, time left in period: 1022.99 seconds
-Georgia 3 ft_made with 1009.07 seconds left in period
-Current score: Ole Miss 34 - Georgia 48
-
-Current attacking team: Ole Miss, time left in period: 1009.07 seconds
-Ole Miss 3 ft_made with 991.91 seconds left in period
-Current score: Ole Miss 37 - Georgia 48
-
-Current attacking team: Georgia, time left in period: 991.91 seconds
-Georgia missed with 972.38 seconds left in period
-Current score: Ole Miss 37 - Georgia 48
-
-Current attacking team: Ole Miss, time left in period: 972.38 seconds
-Ole Miss 2pt_made with 952.19 seconds left in period
-Current score: Ole Miss 39 - Georgia 48
-
-Current attacking team: Georgia, time left in period: 952.19 seconds
-Georgia 2pt_made with 933.65 seconds left in period
-Current score: Ole Miss 39 - Georgia 50
-
-Current attacking team: Ole Miss, time left in period: 933.65 seconds
-Ole Miss offensive_rebound with 918.06 seconds left in period
-Current score: Ole Miss 39 - Georgia 50
-
-Current attacking team: Ole Miss, time left in period: 918.06 seconds
-Ole Miss 3pt_made with 898.75 seconds left in period
-Current score: Ole Miss 42 - Georgia 50
-
-Current attacking team: Georgia, time left in period: 898.75 seconds
-Georgia 1 ft_made with 880.08 seconds left in period
-Current score: Ole Miss 42 - Georgia 51
-
-Current attacking team: Ole Miss, time left in period: 880.08 seconds
-Ole Miss missed with 860.71 seconds left in period
-Current score: Ole Miss 42 - Georgia 51
-
-Current attacking team: Georgia, time left in period: 860.71 seconds
-Georgia offensive_rebound with 847.28 seconds left in period
-Current score: Ole Miss 42 - Georgia 51
-
-Current attacking team: Georgia, time left in period: 847.28 seconds
-Georgia 2pt_made with 831.39 seconds left in period
-Current score: Ole Miss 42 - Georgia 53
-
-Current attacking team: Ole Miss, time left in period: 831.39 seconds
-Ole Miss 3pt_made with 816.27 seconds left in period
-Current score: Ole Miss 45 - Georgia 53
-
-Current attacking team: Georgia, time left in period: 816.27 seconds
-Georgia 3pt_made with 797.44 seconds left in period
-Current score: Ole Miss 45 - Georgia 56
-
-Current attacking team: Ole Miss, time left in period: 797.44 seconds
-Ole Miss 2 ft_made with 781.82 seconds left in period
-Current score: Ole Miss 47 - Georgia 56
-
-Current attacking team: Georgia, time left in period: 781.82 seconds
-Georgia 3 ft_made with 764.32 seconds left in period
-Current score: Ole Miss 47 - Georgia 59
-
-Current attacking team: Ole Miss, time left in period: 764.32 seconds
-Ole Miss 2 ft_made with 747.90 seconds left in period
-Current score: Ole Miss 49 - Georgia 59
-
-Current attacking team: Georgia, time left in period: 747.90 seconds
-Georgia 2pt_made with 729.67 seconds left in period
-Current score: Ole Miss 49 - Georgia 61
-
-Current attacking team: Ole Miss, time left in period: 729.67 seconds
-Ole Miss turnover with 713.14 seconds left in period
-Current score: Ole Miss 49 - Georgia 61
-
-Current attacking team: Georgia, time left in period: 713.14 seconds
-Georgia missed with 694.84 seconds left in period
-Current score: Ole Miss 49 - Georgia 61
-
-Current attacking team: Ole Miss, time left in period: 694.84 seconds
-Ole Miss missed with 676.27 seconds left in period
-Current score: Ole Miss 49 - Georgia 61
-
-Current attacking team: Georgia, time left in period: 676.27 seconds
-Georgia 2pt_made with 657.15 seconds left in period
-Current score: Ole Miss 49 - Georgia 63
-
-Current attacking team: Ole Miss, time left in period: 657.15 seconds
-Ole Miss turnover with 638.13 seconds left in period
-Current score: Ole Miss 49 - Georgia 63
-
-Current attacking team: Georgia, time left in period: 638.13 seconds
-Georgia 2pt_made with 619.74 seconds left in period
-Current score: Ole Miss 49 - Georgia 65
-
-Current attacking team: Ole Miss, time left in period: 619.74 seconds
-Ole Miss missed with 603.91 seconds left in period
-Current score: Ole Miss 49 - Georgia 65
-
-Current attacking team: Georgia, time left in period: 603.91 seconds
-Georgia 3pt_made with 589.77 seconds left in period
-Current score: Ole Miss 49 - Georgia 68
-
-Current attacking team: Ole Miss, time left in period: 589.77 seconds
-Ole Miss 2pt_made with 575.39 seconds left in period
-Current score: Ole Miss 51 - Georgia 68
-
-Current attacking team: Georgia, time left in period: 575.39 seconds
-Georgia offensive_rebound with 561.81 seconds left in period
-Current score: Ole Miss 51 - Georgia 68
-
-Current attacking team: Georgia, time left in period: 561.81 seconds
-Georgia 3pt_made with 543.98 seconds left in period
-Current score: Ole Miss 51 - Georgia 71
-
-Current attacking team: Ole Miss, time left in period: 543.98 seconds
-Ole Miss 2pt_made with 528.37 seconds left in period
-Current score: Ole Miss 53 - Georgia 71
-
-Current attacking team: Georgia, time left in period: 528.37 seconds
-Georgia 2pt_made with 510.38 seconds left in period
-Current score: Ole Miss 53 - Georgia 73
-
-Current attacking team: Ole Miss, time left in period: 510.38 seconds
-Ole Miss missed with 492.18 seconds left in period
-Current score: Ole Miss 53 - Georgia 73
-
-Current attacking team: Georgia, time left in period: 492.18 seconds
-Georgia missed with 475.63 seconds left in period
-Current score: Ole Miss 53 - Georgia 73
-
-Current attacking team: Ole Miss, time left in period: 475.63 seconds
-Ole Miss offensive_rebound with 459.96 seconds left in period
-Current score: Ole Miss 53 - Georgia 73
-
-Current attacking team: Ole Miss, time left in period: 459.96 seconds
-Ole Miss 3 ft_made with 444.40 seconds left in period
-Current score: Ole Miss 56 - Georgia 73
-
-Current attacking team: Georgia, time left in period: 444.40 seconds
-Georgia missed with 425.22 seconds left in period
-Current score: Ole Miss 56 - Georgia 73
-
-Current attacking team: Ole Miss, time left in period: 425.22 seconds
-Ole Miss 2pt_made with 406.87 seconds left in period
-Current score: Ole Miss 58 - Georgia 73
-
-Current attacking team: Georgia, time left in period: 406.87 seconds
-Georgia 1 ft_made with 387.73 seconds left in period
-Current score: Ole Miss 58 - Georgia 74
-
-Current attacking team: Ole Miss, time left in period: 387.73 seconds
-Ole Miss offensive_rebound with 373.29 seconds left in period
-Current score: Ole Miss 58 - Georgia 74
-
-Current attacking team: Ole Miss, time left in period: 373.29 seconds
-Ole Miss offensive_rebound with 353.69 seconds left in period
-Current score: Ole Miss 58 - Georgia 74
-
-Current attacking team: Ole Miss, time left in period: 353.69 seconds
-Ole Miss 2pt_made with 339.56 seconds left in period
-Current score: Ole Miss 60 - Georgia 74
-
-Current attacking team: Georgia, time left in period: 339.56 seconds
-Georgia 2 ft_made with 326.37 seconds left in period
-Current score: Ole Miss 60 - Georgia 76
-
-Current attacking team: Ole Miss, time left in period: 326.37 seconds
-Ole Miss 2 ft_made with 309.65 seconds left in period
-Current score: Ole Miss 62 - Georgia 76
-
-Current attacking team: Georgia, time left in period: 309.65 seconds
-Georgia missed with 291.20 seconds left in period
-Current score: Ole Miss 62 - Georgia 76
-
-Current attacking team: Ole Miss, time left in period: 291.20 seconds
-Ole Miss 2pt_made with 274.81 seconds left in period
-Current score: Ole Miss 64 - Georgia 76
-
-Current attacking team: Georgia, time left in period: 274.81 seconds
-Georgia turnover with 256.59 seconds left in period
-Current score: Ole Miss 64 - Georgia 76
-
-Current attacking team: Ole Miss, time left in period: 256.59 seconds
-Ole Miss missed with 240.61 seconds left in period
-Current score: Ole Miss 64 - Georgia 76
-
-Current attacking team: Georgia, time left in period: 240.61 seconds
-Georgia 3pt_made with 225.32 seconds left in period
-Current score: Ole Miss 64 - Georgia 79
-
-Current attacking team: Ole Miss, time left in period: 225.32 seconds
-Ole Miss 2 ft_made with 207.65 seconds left in period
-Current score: Ole Miss 66 - Georgia 79
-
-Current attacking team: Georgia, time left in period: 207.65 seconds
-Georgia offensive_rebound with 191.28 seconds left in period
-Current score: Ole Miss 66 - Georgia 79
-
-Current attacking team: Georgia, time left in period: 191.28 seconds
-Georgia missed with 175.83 seconds left in period
-Current score: Ole Miss 66 - Georgia 79
-
-Current attacking team: Ole Miss, time left in period: 175.83 seconds
-Ole Miss 3pt_made with 157.01 seconds left in period
-Current score: Ole Miss 69 - Georgia 79
-
-Current attacking team: Georgia, time left in period: 157.01 seconds
-Georgia missed with 140.59 seconds left in period
-Current score: Ole Miss 69 - Georgia 79
-
-Current attacking team: Ole Miss, time left in period: 140.59 seconds
-Ole Miss 2pt_made with 122.83 seconds left in period
-Current score: Ole Miss 71 - Georgia 79
-
-Current attacking team: Georgia, time left in period: 122.83 seconds
-Georgia 3pt_made with 106.76 seconds left in period
-Current score: Ole Miss 71 - Georgia 82
-
-Current attacking team: Ole Miss, time left in period: 106.76 seconds
-Ole Miss missed with 88.44 seconds left in period
-Current score: Ole Miss 71 - Georgia 82
-
-Current attacking team: Georgia, time left in period: 88.44 seconds
-Georgia 3pt_made with 73.75 seconds left in period
-Current score: Ole Miss 71 - Georgia 85
-
-Current attacking team: Ole Miss, time left in period: 73.75 seconds
-Ole Miss offensive_rebound with 54.60 seconds left in period
-Current score: Ole Miss 71 - Georgia 85
-
-Current attacking team: Ole Miss, time left in period: 54.60 seconds
-Ole Miss 2pt_made with 39.08 seconds left in period
-Current score: Ole Miss 73 - Georgia 85
-
-Current attacking team: Georgia, time left in period: 39.08 seconds
-Georgia turnover with 22.91 seconds left in period
-Current score: Ole Miss 73 - Georgia 85
-
-Current attacking team: Ole Miss, time left in period: 22.91 seconds
-Ole Miss missed with 7.67 seconds left in period
-Current score: Ole Miss 73 - Georgia 85
-
-Current attacking team: Georgia, time left in period: 7.67 seconds
-Georgia turnover with 0.00 seconds left in period
-Current score: Ole Miss 73 - Georgia 85
+Current attacking team: Michigan State, time left in period: 1200.00 seconds
+Michigan State missed with 1179.00 seconds left in period
+Current score: Michigan State 39 - Georgia 27
+
+Current attacking team: Georgia, time left in period: 1179.00 seconds
+Georgia turnover with 1160.73 seconds left in period
+Current score: Michigan State 39 - Georgia 27
+
+Current attacking team: Michigan State, time left in period: 1160.73 seconds
+Michigan State offensive_rebound with 1142.60 seconds left in period
+Current score: Michigan State 39 - Georgia 27
+
+Current attacking team: Michigan State, time left in period: 1142.60 seconds
+Michigan State 2 ft_made with 1126.89 seconds left in period
+Current score: Michigan State 41 - Georgia 27
+
+Current attacking team: Georgia, time left in period: 1126.89 seconds
+Georgia 0 ft_made with 1108.91 seconds left in period
+Current score: Michigan State 41 - Georgia 27
+
+Current attacking team: Michigan State, time left in period: 1108.91 seconds
+Michigan State 2pt_made with 1090.14 seconds left in period
+Current score: Michigan State 43 - Georgia 27
+
+Current attacking team: Georgia, time left in period: 1090.14 seconds
+Georgia missed with 1074.86 seconds left in period
+Current score: Michigan State 43 - Georgia 27
+
+Current attacking team: Michigan State, time left in period: 1074.86 seconds
+Michigan State missed with 1055.55 seconds left in period
+Current score: Michigan State 43 - Georgia 27
+
+Current attacking team: Georgia, time left in period: 1055.55 seconds
+Georgia 2 ft_made with 1036.10 seconds left in period
+Current score: Michigan State 43 - Georgia 29
+
+Current attacking team: Michigan State, time left in period: 1036.10 seconds
+Michigan State 2pt_made with 1020.03 seconds left in period
+Current score: Michigan State 45 - Georgia 29
+
+Current attacking team: Georgia, time left in period: 1020.03 seconds
+Georgia missed with 1003.76 seconds left in period
+Current score: Michigan State 45 - Georgia 29
+
+Current attacking team: Michigan State, time left in period: 1003.76 seconds
+Michigan State missed with 986.85 seconds left in period
+Current score: Michigan State 45 - Georgia 29
+
+Current attacking team: Georgia, time left in period: 986.85 seconds
+Georgia missed with 970.17 seconds left in period
+Current score: Michigan State 45 - Georgia 29
+
+Current attacking team: Michigan State, time left in period: 970.17 seconds
+Michigan State offensive_rebound with 949.42 seconds left in period
+Current score: Michigan State 45 - Georgia 29
+
+Current attacking team: Michigan State, time left in period: 949.42 seconds
+Michigan State 3pt_made with 933.90 seconds left in period
+Current score: Michigan State 48 - Georgia 29
+
+Current attacking team: Georgia, time left in period: 933.90 seconds
+Georgia 2 ft_made with 916.27 seconds left in period
+Current score: Michigan State 48 - Georgia 31
+
+Current attacking team: Michigan State, time left in period: 916.27 seconds
+Michigan State missed with 899.74 seconds left in period
+Current score: Michigan State 48 - Georgia 31
+
+Current attacking team: Georgia, time left in period: 899.74 seconds
+Georgia turnover with 881.80 seconds left in period
+Current score: Michigan State 48 - Georgia 31
+
+Current attacking team: Michigan State, time left in period: 881.80 seconds
+Michigan State 1 ft_made with 864.88 seconds left in period
+Current score: Michigan State 49 - Georgia 31
+
+Current attacking team: Georgia, time left in period: 864.88 seconds
+Georgia turnover with 848.07 seconds left in period
+Current score: Michigan State 49 - Georgia 31
+
+Current attacking team: Michigan State, time left in period: 848.07 seconds
+Michigan State offensive_rebound with 831.32 seconds left in period
+Current score: Michigan State 49 - Georgia 31
+
+Current attacking team: Michigan State, time left in period: 831.32 seconds
+Michigan State offensive_rebound with 813.93 seconds left in period
+Current score: Michigan State 49 - Georgia 31
+
+Current attacking team: Michigan State, time left in period: 813.93 seconds
+Michigan State turnover with 799.02 seconds left in period
+Current score: Michigan State 49 - Georgia 31
+
+Current attacking team: Georgia, time left in period: 799.02 seconds
+Georgia turnover with 783.99 seconds left in period
+Current score: Michigan State 49 - Georgia 31
+
+Current attacking team: Michigan State, time left in period: 783.99 seconds
+Michigan State 2pt_made with 769.47 seconds left in period
+Current score: Michigan State 51 - Georgia 31
+
+Current attacking team: Georgia, time left in period: 769.47 seconds
+Georgia missed with 750.26 seconds left in period
+Current score: Michigan State 51 - Georgia 31
+
+Current attacking team: Michigan State, time left in period: 750.26 seconds
+Michigan State offensive_rebound with 732.28 seconds left in period
+Current score: Michigan State 51 - Georgia 31
+
+Current attacking team: Michigan State, time left in period: 732.28 seconds
+Michigan State 2 ft_made with 711.82 seconds left in period
+Current score: Michigan State 53 - Georgia 31
+
+Current attacking team: Georgia, time left in period: 711.82 seconds
+Georgia 2 ft_made with 693.89 seconds left in period
+Current score: Michigan State 53 - Georgia 33
+
+Current attacking team: Michigan State, time left in period: 693.89 seconds
+Michigan State turnover with 673.60 seconds left in period
+Current score: Michigan State 53 - Georgia 33
+
+Current attacking team: Georgia, time left in period: 673.60 seconds
+Georgia 1 ft_made with 657.68 seconds left in period
+Current score: Michigan State 53 - Georgia 34
+
+Current attacking team: Michigan State, time left in period: 657.68 seconds
+Michigan State turnover with 639.78 seconds left in period
+Current score: Michigan State 53 - Georgia 34
+
+Current attacking team: Georgia, time left in period: 639.78 seconds
+Georgia offensive_rebound with 623.62 seconds left in period
+Current score: Michigan State 53 - Georgia 34
+
+Current attacking team: Georgia, time left in period: 623.62 seconds
+Georgia 2 ft_made with 610.25 seconds left in period
+Current score: Michigan State 53 - Georgia 36
+
+Current attacking team: Michigan State, time left in period: 610.25 seconds
+Michigan State offensive_rebound with 591.47 seconds left in period
+Current score: Michigan State 53 - Georgia 36
+
+Current attacking team: Michigan State, time left in period: 591.47 seconds
+Michigan State missed with 574.66 seconds left in period
+Current score: Michigan State 53 - Georgia 36
+
+Current attacking team: Georgia, time left in period: 574.66 seconds
+Georgia 2 ft_made with 558.61 seconds left in period
+Current score: Michigan State 53 - Georgia 38
+
+Current attacking team: Michigan State, time left in period: 558.61 seconds
+Michigan State offensive_rebound with 542.28 seconds left in period
+Current score: Michigan State 53 - Georgia 38
+
+Current attacking team: Michigan State, time left in period: 542.28 seconds
+Michigan State turnover with 522.12 seconds left in period
+Current score: Michigan State 53 - Georgia 38
+
+Current attacking team: Georgia, time left in period: 522.12 seconds
+Georgia offensive_rebound with 505.71 seconds left in period
+Current score: Michigan State 53 - Georgia 38
+
+Current attacking team: Georgia, time left in period: 505.71 seconds
+Georgia missed with 492.40 seconds left in period
+Current score: Michigan State 53 - Georgia 38
+
+Current attacking team: Michigan State, time left in period: 492.40 seconds
+Michigan State 2pt_made with 476.47 seconds left in period
+Current score: Michigan State 55 - Georgia 38
+
+Current attacking team: Georgia, time left in period: 476.47 seconds
+Georgia 3 ft_made with 463.09 seconds left in period
+Current score: Michigan State 55 - Georgia 41
+
+Current attacking team: Michigan State, time left in period: 463.09 seconds
+Michigan State offensive_rebound with 442.82 seconds left in period
+Current score: Michigan State 55 - Georgia 41
+
+Current attacking team: Michigan State, time left in period: 442.82 seconds
+Michigan State offensive_rebound with 424.29 seconds left in period
+Current score: Michigan State 55 - Georgia 41
+
+Current attacking team: Michigan State, time left in period: 424.29 seconds
+Michigan State turnover with 407.64 seconds left in period
+Current score: Michigan State 55 - Georgia 41
+
+Current attacking team: Georgia, time left in period: 407.64 seconds
+Georgia 2pt_made with 392.11 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 392.11 seconds
+Michigan State missed with 371.77 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Georgia, time left in period: 371.77 seconds
+Georgia turnover with 355.69 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 355.69 seconds
+Michigan State offensive_rebound with 337.17 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 337.17 seconds
+Michigan State missed with 321.22 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Georgia, time left in period: 321.22 seconds
+Georgia missed with 304.44 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 304.44 seconds
+Michigan State offensive_rebound with 284.32 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 284.32 seconds
+Michigan State turnover with 269.47 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Georgia, time left in period: 269.47 seconds
+Georgia missed with 254.05 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 254.05 seconds
+Michigan State offensive_rebound with 238.50 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 238.50 seconds
+Michigan State missed with 220.28 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Georgia, time left in period: 220.28 seconds
+Georgia offensive_rebound with 203.85 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Georgia, time left in period: 203.85 seconds
+Georgia missed with 188.41 seconds left in period
+Current score: Michigan State 55 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 188.41 seconds
+Michigan State 2pt_made with 170.43 seconds left in period
+Current score: Michigan State 57 - Georgia 43
+
+Current attacking team: Georgia, time left in period: 170.43 seconds
+Georgia turnover with 151.38 seconds left in period
+Current score: Michigan State 57 - Georgia 43
+
+Current attacking team: Michigan State, time left in period: 151.38 seconds
+Michigan State turnover with 132.14 seconds left in period
+Current score: Michigan State 57 - Georgia 43
+
+Current attacking team: Georgia, time left in period: 132.14 seconds
+Georgia 2 ft_made with 118.57 seconds left in period
+Current score: Michigan State 57 - Georgia 45
+
+Current attacking team: Michigan State, time left in period: 118.57 seconds
+Michigan State turnover with 102.26 seconds left in period
+Current score: Michigan State 57 - Georgia 45
+
+Current attacking team: Georgia, time left in period: 102.26 seconds
+Georgia 2pt_made with 88.30 seconds left in period
+Current score: Michigan State 57 - Georgia 47
+
+Current attacking team: Michigan State, time left in period: 88.30 seconds
+Michigan State 3pt_made with 68.83 seconds left in period
+Current score: Michigan State 60 - Georgia 47
+
+Current attacking team: Georgia, time left in period: 68.83 seconds
+Georgia missed with 55.65 seconds left in period
+Current score: Michigan State 60 - Georgia 47
+
+Current attacking team: Michigan State, time left in period: 55.65 seconds
+Michigan State turnover with 40.69 seconds left in period
+Current score: Michigan State 60 - Georgia 47
+
+Current attacking team: Georgia, time left in period: 40.69 seconds
+Georgia missed with 26.76 seconds left in period
+Current score: Michigan State 60 - Georgia 47
+
+Current attacking team: Michigan State, time left in period: 26.76 seconds
+Michigan State turnover with 5.52 seconds left in period
+Current score: Michigan State 60 - Georgia 47
+
+Current attacking team: Georgia, time left in period: 5.52 seconds
+Georgia missed with 0.00 seconds left in period
+Current score: Michigan State 60 - Georgia 47
 End of game

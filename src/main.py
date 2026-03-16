@@ -3,7 +3,7 @@ def main():
     from classes import Team
     from game import Game
 
-    t1 = Team("Ole Miss", "SEC", 2026)
+    t1 = Team("Michigan State", "Big Ten", 2026)
     t2 = Team("Georgia", "SEC", 2026)
 
     # Check if data is available for both teams before simulating
@@ -37,7 +37,7 @@ defensive rebounds: {t1.name} {game.game_stats[t1.name]['def_rebounds']} | {t2.n
         """
         # print(game_stats)
         print(final_score)
-        # print(game_stats)
+        print(game_stats)
         if game.score[t1.name] > game.score[t2.name]:
             # print(f"{t1.name} wins!")
             t1_wins += 1
